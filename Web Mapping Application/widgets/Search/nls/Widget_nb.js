@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Search/nls/strings":{_widgetLabel:"S\u00f8ke",searchResult:"Search Results",showAllResults:"Vis s\u00f8keresultater for ",showAll:"Vis s\u00f8keresultater",more:"mer",_localized:{}}});

@@ -1,0 +1,2 @@
+//>>built
+define({root:{label1:"\u0395\u03af\u03bc\u03b1\u03b9 \u03ad\u03bd\u03b1 \u03b4\u03b5\u03af\u03b3\u03bc\u03b1 (demo) widget.",label2:"\u0395\u03af\u03bd\u03b1\u03b9 \u03c0\u03b1\u03c1\u03b1\u03bc\u03b5\u03c4\u03c1\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b9\u03bc\u03bf."},ar:0,cs:0,da:0,de:0,el:0,es:0,et:0,fi:0,fr:0,he:0,it:0,ja:0,ko:0,lt:0,lv:0,nb:0,nl:0,pl:0,"pt-br":0,"pt-pt":0,ro:0,ru:0,sv:0,th:0,tr:0,vi:0,"zh-cn":1});

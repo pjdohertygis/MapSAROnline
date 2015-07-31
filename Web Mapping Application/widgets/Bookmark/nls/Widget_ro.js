@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Bookmark/nls/strings":{labelBookmarkName:"Marca\u0163i vizualizarea curent\u0103",labelPlay:"Redare toate",labelStop:"Oprire",labelDelete:"\u015etergere",placeholderBookmarkName:"Nume marcaj",errorNameExist:"Marcajul exist\u0103!",errorNameNull:"Nume marcaj nevalid!",_widgetLabel:"Semn de carte",_localized:{}}});

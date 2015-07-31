@@ -1,0 +1,2 @@
+//>>built
+define({"themes/FoldableTheme/widgets/HeaderController/setting/nls/strings":{group:"Nazwa",openAll:"Otw\u00f3rz wszystko w panelu",dropDown:"Poka\u017c w menu rozwijanym",noGroup:"Brak skonfigurowanej grupy wid\u017cet\u00f3w",groupSetLabel:"Skonfiguruj w\u0142a\u015bciwo\u015bci grupy wid\u017cet\u00f3w",_localized:{}}});

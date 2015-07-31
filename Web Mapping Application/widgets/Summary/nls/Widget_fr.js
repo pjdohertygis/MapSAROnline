@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Summary/nls/strings":{filter:"Filtrer",all:"Tous",missingLayerInWebMap:"Aucune couche op\u00e9rationnelle dans la carte Web.",missingSummaryLayerInConfig:"Couche de r\u00e9capitulation manquante.",_localized:{}}});

@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Bookmark/nls/strings":{labelBookmarkName:"Skapa ett bokm\u00e4rke f\u00f6r den aktuella vyn",labelPlay:"Spela alla",labelStop:"Stoppa",labelDelete:"Ta bort",placeholderBookmarkName:"Skapa ett bokm\u00e4rke f\u00f6r namn",errorNameExist:"Det finns ett bokm\u00e4rke!",errorNameNull:"Ogiltigt namn p\u00e5 bokm\u00e4rke!",_widgetLabel:"Bokm\u00e4rke",_localized:{}}});

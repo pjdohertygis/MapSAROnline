@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Measurement/setting/nls/strings":{defaultAreaUnit:"Varsay\u0131lan Alan Birimi",defaultLengthUnit:"Varsay\u0131lan Uzunluk Birimi",acres:"\u0130ngiliz D\u00f6n\u00fcm\u00fc",sqMiles:"Mil Kare",sqKilometers:"Kilometre Kare",hectares:"Hektar",sqYards:"Yarda Kare",sqFeet:"Fit Kare",sqMeters:"Metre Kare",miles:"Mil",kilometers:"Kilometre",feet:"Fit",meters:"Metre",yards:"Yarda",nauticalMiles:"Deniz Mili",_localized:{}}});

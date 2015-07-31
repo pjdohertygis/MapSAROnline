@@ -1,0 +1,2 @@
+//>>built
+define({"themes/LaunchpadTheme/widgets/AnchorBarController/nls/strings":{_themeLabel:"Palai\u0161anas pane\u013ca dizains",_layout_default:"Noklus\u0113juma izk\u0101rtojums",_layout_layout1:"0.\u00a0izk\u0101rtojums",more:"Citi logr\u012bki",_localized:{}}});

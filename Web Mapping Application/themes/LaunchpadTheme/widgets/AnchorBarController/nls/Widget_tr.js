@@ -1,0 +1,2 @@
+//>>built
+define({"themes/LaunchpadTheme/widgets/AnchorBarController/nls/strings":{_themeLabel:"F\u0131rlatma Rampas\u0131 Temas\u0131",_layout_default:"Varsay\u0131lan D\u00fczen",_layout_layout1:"D\u00fczen 0",more:"Di\u011fer Gere\u00e7ler",_localized:{}}});

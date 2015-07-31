@@ -1,0 +1,2 @@
+//>>built
+define({"themes/LaunchpadTheme/widgets/AnchorBarController/nls/strings":{_themeLabel:"Tema Rampa di lancio",_layout_default:"Layout predefinito",_layout_layout1:"Layout 0",more:"Altri widget",_localized:{}}});

@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Print/setting/nls/strings":{serviceURL:"\uc11c\ube44\uc2a4 URL",defaultTitle:"\uae30\ubcf8 \uc81c\ubaa9",defaultAuthor:"\uae30\ubcf8 \uc791\uc131\uc790",defaultCopyright:"\uae30\ubcf8 \uc800\uc791\uad8c",defaultFormat:"\uae30\ubcf8 \ud615\uc2dd",defaultLayout:"\uae30\ubcf8 \ub808\uc774\uc544\uc6c3",warning:"\uc798\ubabb\ub41c \uc785\ub825",ok:"\ud655\uc778",_localized:{}}});

@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/Geoprocessing/nls/strings":{_widgetLabel:"Geoprosessering",execute:"Utf\u00f8r",help:"Hjelp",input:"Inndata",output:"Resultat",executing:"Utf\u00f8rer",requiredInfo:"er p\u00e5krevd.",drawnOnMap:"Resultatet tegnes p\u00e5 kartet.",clear:"Fjern",error:"Feil",noToolConfig:"Ingen geoprosesseringsoppgave tilgjengelig.",useUrlForGPInput:"URL",useUploadForGPInput:"Last opp fil",selectFileToUpload:"Velg fil...",upload:"Last opp",rasterFormat:"Rasterdataformat",noFileSelected:"Ingen fil er valgt!",
+uploadSuccess:"Filen er lastet opp.",url:"URL",_localized:{}}});

@@ -1,0 +1,2 @@
+//>>built
+define(["dojo/_base/array"],function(b){return{getStreamLayers:function(a){var c=[],d;b.forEach(a.graphicsLayerIds,function(b){d=a.getLayer(b);"esri.layers.StreamLayer"===d.declaredClass&&c.push(d)});c.reverse();return c},getStreamLayerName:function(a){a=/\/([^\/]+)\/StreamServer/.exec(a);return 1<a.length?a[1]:""}}});

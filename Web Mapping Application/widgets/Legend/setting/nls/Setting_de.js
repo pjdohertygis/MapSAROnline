@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Legend/setting/nls/strings":{left:"Links ausrichten",right:"Rechts ausrichten",arrangement:"Anordnung",autoUpdate:"Automatische Aktualisierung",respectCurrentMapScale:"Aktuellen Kartenma\u00dfstab ber\u00fccksichtigen",_localized:{}}});

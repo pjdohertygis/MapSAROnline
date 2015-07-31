@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Legend/setting/nls/strings":{left:"Juster mot venstre",right:"Juster mot h\u00f8yre",arrangement:"Plassering",autoUpdate:"Automatisk oppdatering",respectCurrentMapScale:"Respekter gjeldende kartm\u00e5lestokk",_localized:{}}});

@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/LayerList/setting/nls/strings":{showLegend:"Poka\u017c legend\u0119",controlPopupMenuTitle:"Wybierz dzia\u0142ania wy\u015bwietlane w menu kontekstowym warstwy.",zoomto:"Powi\u0119ksz do",transparency:"Transparency",controlPopup:"W\u0142\u0105cz / Wy\u0142\u0105cz okno podr\u0119czne",moveUpAndDown:"Przenie\u015b do g\u00f3ry / Przenie\u015b w d\u00f3\u0142",attributeTable:"Otw\u00f3rz tabel\u0119 atrybut\u00f3w",url:"Opis / Poka\u017c szczeg\u00f3\u0142y elementu / Pobierz",_localized:{}}});

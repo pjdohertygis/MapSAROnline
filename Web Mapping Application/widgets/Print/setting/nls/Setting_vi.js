@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Print/setting/nls/strings":{serviceURL:"URL D\u1ecbch v\u1ee5",defaultTitle:"Ti\u00eau \u0111\u1ec1 M\u1eb7c \u0111\u1ecbnh",defaultAuthor:"T\u00e1c gi\u1ea3 M\u1eb7c \u0111\u1ecbnh",defaultCopyright:"B\u1ea3n quy\u1ec1n M\u1eb7c \u0111\u1ecbnh",defaultFormat:"\u0110\u1ecbnh d\u1ea1ng M\u1eb7c \u0111\u1ecbnh",defaultLayout:"B\u1ed1 c\u1ee5c M\u1eb7c \u0111\u1ecbnh",warning:"\u0110\u1ea7u v\u00e0o kh\u00f4ng \u0111\u00fang",ok:"OK",_localized:{}}});

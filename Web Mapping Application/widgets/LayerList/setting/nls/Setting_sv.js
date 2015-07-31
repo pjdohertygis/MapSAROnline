@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/LayerList/setting/nls/strings":{showLegend:"Visa f\u00f6rklaring",controlPopupMenuTitle:"V\u00e4lj vilka \u00e5tg\u00e4rder som visas i lagrets snabbmeny.",zoomto:"Zooma till",transparency:"Transparens",controlPopup:"Aktivera/inaktivera popupf\u00f6nster",moveUpAndDown:"Flytta upp\u00e5t/Flytta ned\u00e5t",attributeTable:"\u00d6ppna attributtabell",url:"Beskrivning/Visa objektinformation/H\u00e4mta",_localized:{}}});

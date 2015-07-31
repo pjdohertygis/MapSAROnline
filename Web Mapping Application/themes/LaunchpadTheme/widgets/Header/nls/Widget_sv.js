@@ -1,0 +1,2 @@
+//>>built
+define({"themes/LaunchpadTheme/widgets/Header/nls/strings":{_widgetLabel:"Rubrik",signin:"Logga in",signout:"Logga ut",about:"Om",signInTo:"Logga in p\u00e5",cantSignOutTip:"Denna funktion \u00e4r inte tillg\u00e4nglig i f\u00f6rhandsgranskningsl\u00e4ge.",_localized:{}}});

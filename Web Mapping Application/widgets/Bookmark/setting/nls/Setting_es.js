@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Bookmark/setting/nls/strings":{add:"Hacer clic para agregar un nuevo marcador",title:"T\u00edtulo",placeholderBookmarkName:"Nombre del marcador",ok:"Aceptar",cancel:"Cancelar",warning:"Termina la edici\u00f3n.",edit:"Editar marcador",errorNameExist:"\u00a1El marcador ya existe!",errorNameNull:"\u00a1Nombre del marcador no v\u00e1lido!",addBookmark:"Crear un nuevo marcador",thumbnail:"Miniatura",thumbnailHint:"Haz clic en la imagen para actualizar",_localized:{}}});

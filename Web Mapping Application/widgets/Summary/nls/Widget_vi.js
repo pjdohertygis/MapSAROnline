@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Summary/nls/strings":{filter:"B\u1ed9 l\u1ecdc",all:"T\u1ea5t c\u1ea3",missingLayerInWebMap:"Kh\u00f4ng c\u00f3 L\u1edbp Ho\u1ea1t \u0111\u1ed9ng trong B\u1ea3n \u0111\u1ed3 Trang web.",missingSummaryLayerInConfig:"Thi\u1ebfu l\u1edbp t\u1ed5ng k\u1ebft.",_localized:{}}});

@@ -1,0 +1,2 @@
+//>>built
+define({"themes/TabTheme/widgets/SidebarController/nls/strings":{_widgetLabel:"\u8cc7\u8a0a\u770b\u677f\u63a7\u5236\u5668",more:"\u66f4\u591a",otherPanels:"\u5176\u4ed6\u9762\u677f",_localized:{}}});

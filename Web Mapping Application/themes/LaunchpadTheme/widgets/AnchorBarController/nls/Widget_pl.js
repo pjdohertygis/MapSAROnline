@@ -1,0 +1,2 @@
+//>>built
+define({"themes/LaunchpadTheme/widgets/AnchorBarController/nls/strings":{_themeLabel:"Motyw Launchpad",_layout_default:"Uk\u0142ad domy\u015blny",_layout_layout1:"Uk\u0142ad 0",more:"Wi\u0119cej wid\u017cet\u00f3w",_localized:{}}});

@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/Geoprocessing/nls/strings":{_widgetLabel:"\u5730\u7406\u8655\u7406",execute:"\u57f7\u884c",help:"\u8aaa\u660e",input:"\u8f38\u5165",output:"\u8f38\u51fa",executing:"\u57f7\u884c",requiredInfo:"\u662f\u5fc5\u8981\u7684\u3002",drawnOnMap:"\u7d50\u679c\u7e6a\u88fd\u5728\u5730\u5716\u4e0a\u3002",clear:"\u6e05\u9664",error:"\u932f\u8aa4",noToolConfig:"\u7121\u53ef\u7528\u7684\u5730\u7406\u8655\u7406\u4efb\u52d9\u3002",useUrlForGPInput:"URL",useUploadForGPInput:"\u4e0a\u50b3\u6a94\u6848",
+selectFileToUpload:"\u9078\u64c7\u6a94\u6848...",upload:"\u4e0a\u50b3",rasterFormat:"\u5149\u67f5\u8cc7\u6599\u683c\u5f0f",noFileSelected:"\u672a\u9078\u64c7\u4efb\u4f55\u6a94\u6848!",uploadSuccess:"\u6a94\u6848\u4e0a\u50b3\u6210\u529f!",url:"URL",_localized:{}}});

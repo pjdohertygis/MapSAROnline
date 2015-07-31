@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Summary/nls/strings":{filter:"Filtrele",all:"T\u00fcm\u00fc",missingLayerInWebMap:"Web Haritas\u0131nda \u0130\u015flem Katman\u0131 Yok",missingSummaryLayerInConfig:"\u00d6zet katman\u0131 eksik.",_localized:{}}});

@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/LayerList/setting/nls/strings":{showLegend:"Mostrar leyenda",controlPopupMenuTitle:"Selecciona qu\u00e9 acciones se muestran en el men\u00fa contextual de la capa.",zoomto:"Acercar",transparency:"Transparencia",controlPopup:"Habilitar/deshabilitar ventana emergente",moveUpAndDown:"Mover hacia arriba/Mover hacia abajo",attributeTable:"Abrir tabla de atributos",url:"Descripci\u00f3n/Mostrar detalles del elemento/Descargar",_localized:{}}});

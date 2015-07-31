@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Summary/setting/nls/strings":{selectLayer:"Select Summary Layer",filterField:"Summary Layer Filter Field",sum:"SUM",min:"MIN",max:"MAX",avg:"AVG",addField:"Add Summary Field",label:"Label",type:"Type",field:"Field",actions:"Actions",displayCluster:"Display as Summary Clusters",showFeatureCount:"Show Feature Count",featureCountLabel:"Feature Count Label",missingLayerInWebMap:"Please add summary layers to webmap.",_localized:{}}});

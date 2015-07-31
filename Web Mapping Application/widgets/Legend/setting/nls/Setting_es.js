@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Legend/setting/nls/strings":{left:"Alinear a la izquierda",right:"Alinear a la derecha",arrangement:"Disposici\u00f3n",autoUpdate:"Actualizaci\u00f3n autom\u00e1tica",respectCurrentMapScale:"Respetar escala de mapa actual",_localized:{}}});

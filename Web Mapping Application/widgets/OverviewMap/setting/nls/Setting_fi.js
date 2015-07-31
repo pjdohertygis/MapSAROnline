@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/OverviewMap/setting/nls/strings":{visible:"N\u00e4yt\u00e4 oletusarvoisesti yleiskatsauskartta",minWidth:"Minimileveys",minHeight:"Minimikorkeus",maxWidth:"Maksimileveys",maxHeight:"Maksimikorkeus",minText:"Minimi",maxText:"Maksimi",attachText:"M\u00e4\u00e4rit\u00e4 kartan kulma, johon t\u00e4m\u00e4 pienoisohjelma liitet\u00e4\u00e4n.",expandText:"Laajenna pienoisohjelma aluksi",topLeft:"Yl\u00e4 vasen",topRight:"Yl\u00e4 oikea",bottomLeft:"Ala vasen",bottomRight:"Ala oikea",_localized:{}}});

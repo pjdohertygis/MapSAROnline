@@ -1,0 +1,2 @@
+//>>built
+define({"themes/FoldableTheme/widgets/HeaderController/nls/strings":{_widgetLabel:"Tr\u00ecnh \u0111i\u1ec1u khi\u1ec3n \u0110\u1ea7u trang",signin:"\u0110\u0103ng nh\u1eadp",signout:"\u0110\u0103ng xu\u1ea5t",about:"V\u1ec1",signInTo:"\u0110\u0103ng nh\u1eadp v\u00e0o",cantSignOutTip:"Ch\u1ee9c n\u0103ng n\u00e0y kh\u00f4ng kh\u1ea3 d\u1ee5ng trong ch\u1ebf \u0111\u1ed9 xem tr\u01b0\u1edbc.",_localized:{}}});

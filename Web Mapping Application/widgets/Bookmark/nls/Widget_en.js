@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Bookmark/nls/strings":{labelBookmarkName:"Bookmark the current view",labelPlay:"Play All",labelStop:"Stop",labelDelete:"Delete",placeholderBookmarkName:"Bookmark Name",errorNameExist:"Bookmark exists!",errorNameNull:"Invalid bookmark name!",_widgetLabel:"Bookmark",_localized:{}}});

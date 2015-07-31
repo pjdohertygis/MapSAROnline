@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/LayerList/setting/nls/strings":{showLegend:"Show Legend",controlPopupMenuTitle:"Choose which actions are shown in layer context menu.",zoomto:"Zoom To",transparency:"Transparency",controlPopup:"Enable / Disable Pop-up",moveUpAndDown:"Move up / Move down",attributeTable:"Open Attribute Table",url:"Description / Show Item Details / Download",_localized:{}}});

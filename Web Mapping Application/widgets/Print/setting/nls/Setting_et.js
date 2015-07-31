@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Print/setting/nls/strings":{serviceURL:"Teenuse URL",defaultTitle:"Vaikimisi pealkiri",defaultAuthor:"Vaikimisi autor",defaultCopyright:"Vaikimisi autori\u00f5igus",defaultFormat:"Vaikemisi vorming",defaultLayout:"Vaikimisi paigutus",warning:"Vale sisend",ok:"OK",_localized:{}}});

@@ -1,0 +1,3 @@
+//>>built
+define(["dojo/Deferred","dojo/when"],function(e,k){var f,d={},g=function(a){var b=new e;if(d.locked)return setTimeout(function(){g(a)},50),b;if(d[a])return d.locked=!0,b.resolve(d[a]),b;d.locked=!0;f([a],function(){d[a]=window.jQuery;b.resolve(d[a])});return b},h=function(a,b,c){f([a[b]],function(){b===a.length-1?c.resolve():(b++,h(a,b,c))})},l=function(a,b){var c=new e;b[0]?h(b,0,c):c.resolve();return c},n=function(a,b){var c=new e;g(a).then(function(m){l(a,b).then(function(){d.locked=!1;c.resolve(m)})});
+return c};return{load:function(a,b,c){a=a.split(",");var d=[];f=b;0===a.length?c(null):(b=a[0],d=a.slice(1),k(n(b,d),c))}}});

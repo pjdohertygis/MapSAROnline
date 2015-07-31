@@ -1,0 +1,2 @@
+//>>built
+define({"themes/JewelryBoxTheme/widgets/HeaderController/setting/nls/strings":{group:"Navn",openAll:"\u00c5pne alle i panelet",dropDown:"Vis i rullegardinmenyen",noGroup:"Det finnes ikke noe widgetgruppesett.",groupSetLabel:"Angi egenskaper for widgetgrupper",_localized:{}}});

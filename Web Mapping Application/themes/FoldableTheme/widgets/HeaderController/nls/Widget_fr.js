@@ -1,0 +1,2 @@
+//>>built
+define({"themes/FoldableTheme/widgets/HeaderController/nls/strings":{_widgetLabel:"Contr\u00f4leur d\u2019en-t\u00eate",signin:"Se connecter",signout:"Se d\u00e9connecter",about:"A propos",signInTo:"Se connecter \u00e0",cantSignOutTip:"Cette fonction est N/D en mode d\u2019aper\u00e7u.",_localized:{}}});

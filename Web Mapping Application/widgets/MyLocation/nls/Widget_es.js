@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/MyLocation/nls/strings":{_widgetLabel:"Mi ubicaci\u00f3n",title:"Buscar mi ubicaci\u00f3n",browserError:"Este navegador no es compatible con la geolocalizaci\u00f3n.",failureFinding:"No se encuentra tu ubicaci\u00f3n. Comprueba tu navegador para asegurarte de que la ubicaci\u00f3n est\u00e9 compartida.",_localized:{}}});

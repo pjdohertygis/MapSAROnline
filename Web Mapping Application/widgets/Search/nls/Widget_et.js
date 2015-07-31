@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Search/nls/strings":{_widgetLabel:"Otsi",searchResult:"Otsi tulemusi",showAllResults:"N\u00e4ita otsingutulemusi p\u00e4ringule ",showAll:"N\u00e4ita otsingutulemusi",more:"rohkem",_localized:{}}});

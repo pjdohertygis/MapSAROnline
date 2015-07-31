@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Search/nls/strings":{_widgetLabel:"Zoeken",searchResult:"Search Results",showAllResults:"Toon zoekresultaten voor ",showAll:"Toon zoekresultaten",more:"meer",_localized:{}}});

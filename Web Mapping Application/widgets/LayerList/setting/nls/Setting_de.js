@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/LayerList/setting/nls/strings":{showLegend:"Legende anzeigen",controlPopupMenuTitle:"Legen Sie fest, welche Aktionen im Layer-Kontextmen\u00fc angezeigt werden sollen.",zoomto:"Zoomen auf",transparency:"Transparenz",controlPopup:"Pop-up aktivieren/deaktivieren",moveUpAndDown:"Nach oben/Nach oben",attributeTable:"Attributtabelle \u00f6ffnen",url:"Beschreibung/Elementdetails anzeigen/Herunterladen",_localized:{}}});

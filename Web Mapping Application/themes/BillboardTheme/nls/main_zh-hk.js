@@ -1,0 +1,2 @@
+//>>built
+define({"themes/BillboardTheme/nls/strings":{_themeLabel:"\u4f48\u544a\u6b04\u4e3b\u984c",_layout_default:"\u9810\u8a2d\u7248\u9762\u914d\u7f6e",_layout_right:"\u6b63\u78ba\u7248\u9762\u914d\u7f6e",_localized:{}}});

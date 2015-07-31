@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/IncidentAnalysis/nls/strings":{_widgetLabel:"Analiza zdarzenia",locate_incident:"Zlokalizuj zdarzenie",clear_incidents:"Wyczy\u015b\u0107 zdarzenia",reverse_geocoded_address:"Najbli\u017cszy adres",reverse_geocoded_error:"Not available",miles:"Mile",kilometers:"Kilometry",feet:"Stopy",meters:"Metry",yards:"Jardy",nauticalMiles:"Mile morskie",now:"TERAZ",wind:"WIATR",SUN:"NIEDZ",MON:"PON",TUE:"WT",WED:"\u015aR",THU:"CZW",FRI:"PT",SAT:"SOB",defaultTabMsg:"Nie znaleziono \u017cadnych zdarze\u0144.",
+actionLabel:"Skonfiguruj jako zdarzenie",useMapExtent:"U\u017cyj zasi\u0119gu bie\u017c\u0105cej mapy",noFeaturesFound:"Nie odnaleziono obiekt\u00f3w.",downloadCSV:"POBIERZ PLIK CSV",_localized:{}}});
