@@ -1,0 +1,2 @@
+//>>built
+define({"themes/JewelryBoxTheme/widgets/HeaderController/nls/strings":{_widgetLabel:"Controller intestazione",signin:"Accedi",signout:"Esci",about:"Info",signInTo:"Accedi a",cantSignOutTip:"Questa funzione non \u00e8 disponibile in modalit\u00e0 anteprima.",_localized:{}}});

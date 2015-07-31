@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/LayerList/setting/nls/strings":{showLegend:"N\u00e4yt\u00e4 selite",controlPopupMenuTitle:"Valitse karttatason pikavalikossa n\u00e4kyv\u00e4t toiminnot.",zoomto:"Tarkenna kohteeseen",transparency:"Transparency",controlPopup:"Poista popup-ikkuna k\u00e4yt\u00f6st\u00e4 tai ota se k\u00e4ytt\u00f6\u00f6n",moveUpAndDown:"Siirr\u00e4 yl\u00f6s / Siirr\u00e4 alas",attributeTable:"Avaa ominaisuustietotaulu",url:"Kuvaus / N\u00e4yt\u00e4 kohteen tiedot / Lataa",_localized:{}}});

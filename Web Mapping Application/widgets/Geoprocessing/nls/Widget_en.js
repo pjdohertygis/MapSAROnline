@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/Geoprocessing/nls/strings":{_widgetLabel:"Geoprocessing",execute:"Execute",help:"Help",input:"Input",output:"Output",executing:"Executing",requiredInfo:"is required.",drawnOnMap:"The result is drawn on the map.",clear:"Clear",error:"Error",noToolConfig:"No geoprocessing task available.",useUrlForGPInput:"URL",useUploadForGPInput:"Upload file",selectFileToUpload:"Select file...",upload:"Upload",rasterFormat:"Raster data format",noFileSelected:"No file selected!",uploadSuccess:"File upload success!",
+url:"URL",_localized:{}}});

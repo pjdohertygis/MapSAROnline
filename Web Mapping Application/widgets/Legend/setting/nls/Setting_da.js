@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Legend/setting/nls/strings":{left:"Just\u00e9r venstre",right:"Just\u00e9r h\u00f8jre",arrangement:"Fordeling",autoUpdate:"Opdater automatisk",respectCurrentMapScale:"Overhold kortets nuv\u00e6rende m\u00e5lestok",_localized:{}}});

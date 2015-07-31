@@ -1,0 +1,2 @@
+//>>built
+define({"themes/FoldableTheme/widgets/HeaderController/nls/strings":{_widgetLabel:"Ovlada\u010d z\u00e1hlav\u00ed",signin:"P\u0159ihl\u00e1sit se",signout:"Odhl\u00e1sit se",about:"O aplikaci",signInTo:"P\u0159ihl\u00e1sit se do",cantSignOutTip:"Tato funkce nen\u00ed v re\u017eimu n\u00e1hledu k dispozici.",_localized:{}}});

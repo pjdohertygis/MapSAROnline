@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Swipe/nls/strings":{_widgetLabel:"Svep",swipeText:" V\u00e4lj det lager som ska svepas",spyglassText:"V\u00e4lj det lager som ska visas i kikaren",disableTips:"Klicka om du vill inaktivera svepverktyget",enableTips:"Klicka om du vill aktivera svepverktyget",_localized:{}}});

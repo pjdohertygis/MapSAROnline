@@ -1,0 +1,14 @@
+{
+  "themes": [
+    "FoldableTheme",
+    "TabTheme",
+    "LaunchpadTheme",
+    "BoxTheme",
+    "BillboardTheme",
+    "JewelryBoxTheme",
+    "DartTheme"
+  ],
+  "_buildInfo": {
+    "manifestsMerged": true
+  }
+}

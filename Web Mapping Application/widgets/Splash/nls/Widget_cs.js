@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Splash/nls/strings":{_widgetLabel:"\u00davodn\u00ed obrazovka",welcomeMessage:"V\u00edtejte ve webov\u00e9 aplikaci ArcGIS!",licenceAgree:"Souhlas\u00edm s",licenceTerm:"podm\u00ednkami webov\u00e9 aplikace ArcGIS",labelContinue:"Pokra\u010dovat",errorString:"* Chcete-li pokra\u010dovat, je t\u0159eba odsouhlasit licen\u010dn\u00ed podm\u00ednky.",notShowAgain:"P\u0159\u00ed\u0161t\u011b tuto \u00favodn\u00ed obrazovku nezobrazovat.",ok:"OK",cancel:"Storno",_localized:{}}});

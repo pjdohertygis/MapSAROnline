@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/MyLocation/setting/nls/strings":{timeout:"\u010casov\u00fd limit vypr\u0161el",highlightLocation:"Zv\u00fdraznit polohu",useTracking:"Sledovat zm\u011bny um\u00edst\u011bn\u00ed",warning:"Nespr\u00e1vn\u00fd vstup",_localized:{}}});

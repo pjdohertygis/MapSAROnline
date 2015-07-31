@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/Summary/setting/nls/strings":{selectLayer:"\u9078\u64c7\u6458\u8981\u5716\u5c64",filterField:"\u6458\u8981\u5716\u5c64\u7be9\u9078\u7a0b\u5f0f\u6b04\u4f4d",sum:"\u7e3d\u548c",min:"\u6700\u5c0f\u503c",max:"\u6700\u5927\u503c",avg:"\u5e73\u5747\u503c",addField:"\u65b0\u589e\u6458\u8981\u6b04\u4f4d",label:"\u6a19\u7c64",type:"\u985e\u578b",field:"\u6b04\u4f4d",actions:"\u64cd\u4f5c",displayCluster:"\u986f\u793a\u70ba\u6458\u8981\u53e2\u96c6",showFeatureCount:"\u986f\u793a\u5716\u5fb5\u8a08\u6578(F)",
+featureCountLabel:"\u5716\u5fb5\u8a08\u6578\u6a19\u7c64",missingLayerInWebMap:"\u8acb\u5411 webmap \u65b0\u589e\u6458\u8981\u5716\u5c64\u3002",_localized:{}}});

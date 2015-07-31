@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/Geoprocessing/nls/strings":{_widgetLabel:"Geoprocessing",execute:"Spustit",help:"N\u00e1pov\u011bda",input:"Vstup",output:"V\u00fdstup",executing:"Prov\u00e1d\u011bn\u00ed",requiredInfo:"je vy\u017eadov\u00e1no.",drawnOnMap:"V\u00fdsledek je vykreslen na map\u011b.",clear:"Zru\u0161",error:"Chyba",noToolConfig:"Nen\u00ed k dispozici \u017e\u00e1dn\u00e1 geporcessingov\u00e1 \u00faloha.",useUrlForGPInput:"URL",useUploadForGPInput:"Nahr\u00e1t soubor",selectFileToUpload:"Vybrat soubor\u2026",
+upload:"Nahr\u00e1t",rasterFormat:"Form\u00e1t rastrov\u00fdch dat",noFileSelected:"Nebyl vybr\u00e1n \u017e\u00e1dn\u00fd soubor.",uploadSuccess:"Nahr\u00e1n\u00ed souboru prob\u011bhlo \u00fasp\u011b\u0161n\u011b.",url:"URL",_localized:{}}});

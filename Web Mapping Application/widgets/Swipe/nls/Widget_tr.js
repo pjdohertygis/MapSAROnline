@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Swipe/nls/strings":{_widgetLabel:"S\u0131y\u0131r",swipeText:" Kayd\u0131rmak istedi\u011finiz katman\u0131 se\u00e7in",spyglassText:"K\u00fc\u00e7\u00fck d\u00fcrb\u00fcnde g\u00f6r\u00fcnecek katman\u0131 se\u00e7in",disableTips:"S\u0131y\u0131rma arac\u0131n\u0131 devre d\u0131\u015f\u0131 b\u0131rakmak i\u00e7in t\u0131klay\u0131n",enableTips:"S\u0131y\u0131rma arac\u0131n\u0131 etkinle\u015ftirmek i\u00e7in t\u0131klay\u0131n",_localized:{}}});

@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/Summary/setting/nls/strings":{selectLayer:"Atlas\u012bt kopsavilkuma sl\u0101ni",filterField:"Kopsavilkuma sl\u0101\u0146a filtr\u0113\u0161anas lauks",sum:"SUM",min:"MIN",max:"MAKS.",avg:"VID",addField:"Pievienot kopsavilkuma sl\u0101ni",label:"Eti\u0137ete",type:"Tips",field:"Lauks",actions:"Darb\u012bbas",displayCluster:"Att\u0113lot k\u0101 kopsavilkuma klasterus",showFeatureCount:"R\u0101d\u012bt elementu skaitu",featureCountLabel:"Elementu skaita eti\u0137ete",missingLayerInWebMap:"L\u016bdzu, pievienojiet t\u012bmek\u013ca kartei kopsavilkuma sl\u0101\u0146us.",
+_localized:{}}});

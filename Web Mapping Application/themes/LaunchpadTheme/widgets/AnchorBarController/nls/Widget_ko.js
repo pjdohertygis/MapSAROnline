@@ -1,0 +1,2 @@
+//>>built
+define({"themes/LaunchpadTheme/widgets/AnchorBarController/nls/strings":{_themeLabel:"\uc2e4\ud589 \ud328\ub4dc \ud14c\ub9c8",_layout_default:"\uae30\ubcf8 \ub808\uc774\uc544\uc6c3",_layout_layout1:"\ub808\uc774\uc544\uc6c3 0",more:"\ub354 \ub9ce\uc740 \uc704\uc82f",_localized:{}}});

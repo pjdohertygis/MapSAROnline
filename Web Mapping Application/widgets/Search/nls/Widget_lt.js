@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Search/nls/strings":{_widgetLabel:"Ie\u0161koti",searchResult:"Paie\u0161kos rezultatas",showAllResults:"Rodyti rezultatus, susijusius su ",showAll:"Rodyti paie\u0161kos rezultatus",more:"daugiau",_localized:{}}});

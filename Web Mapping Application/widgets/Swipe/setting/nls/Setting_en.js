@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Swipe/setting/nls/strings":{styleText:"Choose a style for the swipe tool",vertical:"Vertical bar",horizontal:"Horizontal bar",scope:"Spyglass",layerText:"Select the layer you want to swipe by default",spyglassText:"Select the layer to appear within the spyglass by default.",layerHint:"Note: If the layer is hidden by upper layers, swipe won't have any effect.",_localized:{}}});

@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/MyLocation/setting/nls/strings":{timeout:"Zaman a\u015f\u0131m\u0131",highlightLocation:"Konumu vurgula",useTracking:"Konum de\u011fi\u015fikliklerini izle",warning:"Hatal\u0131 girdi",_localized:{}}});

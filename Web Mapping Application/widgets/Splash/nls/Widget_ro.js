@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Splash/nls/strings":{_widgetLabel:"Pop-up",welcomeMessage:"Bine a\u0163i venit la aplica\u0163ia web ArcGIS!",licenceAgree:"Sunt de acord cu",licenceTerm:"Termenii aplica\u0163iei web ArcGIS",labelContinue:"Continuare",errorString:"* Pentru a continua, trebuie s\u0103 fi\u0163i de acord cu licen\u0163ierea.",notShowAgain:"Nu afi\u015fa\u0163i din nou acest ecran informativ.",ok:"OK",cancel:"Anulare",_localized:{}}});

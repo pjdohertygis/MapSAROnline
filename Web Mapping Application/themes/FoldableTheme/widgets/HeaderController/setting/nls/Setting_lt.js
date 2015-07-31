@@ -1,0 +1,2 @@
+//>>built
+define({"themes/FoldableTheme/widgets/HeaderController/setting/nls/strings":{group:"Pavadinimas",openAll:"Atidaryti visk\u0105 skydelyje",dropDown:"Rodyti i\u0161skleid\u017eiamame meniu",noGroup:"N\u0117ra nustatyt\u0173 valdikli\u0173 grupi\u0173.",groupSetLabel:"Nustatyti valdikli\u0173 grupi\u0173 savybes",_localized:{}}});

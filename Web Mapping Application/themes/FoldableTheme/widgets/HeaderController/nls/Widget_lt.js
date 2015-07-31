@@ -1,0 +1,2 @@
+//>>built
+define({"themes/FoldableTheme/widgets/HeaderController/nls/strings":{_widgetLabel:"Antra\u0161t\u0117s valdiklis",signin:"Prisijungti",signout:"Atsijungti",about:"Apie",signInTo:"Prisijungti \u012f",cantSignOutTip:"\u0160i funkcija veikiant per\u017ei\u016bros re\u017eimu negalima.",_localized:{}}});

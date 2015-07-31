@@ -1,0 +1,2 @@
+//>>built
+define({"themes/TabTheme/widgets/Header/nls/strings":{_widgetLabel:"Ba\u015fl\u0131k",signin:"Oturum A\u00e7",signout:"Oturumu Kapat",about:"Hakk\u0131nda",signInTo:"\u015eurada oturum a\u00e7",cantSignOutTip:"Bu i\u015flev \u00f6n izleme modunda yok.",_localized:{}}});

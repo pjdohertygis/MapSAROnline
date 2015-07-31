@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/Geoprocessing/nls/strings":{_widgetLabel:"Geoprocessering",execute:"Udf\u00f8r",help:"Hj\u00e6lp",input:"Input",output:"Output",executing:"Udf\u00f8rer",requiredInfo:"er obligatorisk.",drawnOnMap:"Resultatet er tegnet p\u00e5 kortet.",clear:"Ryd",error:"Fejl",noToolConfig:"Ingen tilg\u00e6ngelig geoprocesseringsopgave.",useUrlForGPInput:"URL",useUploadForGPInput:"Overf\u00f8r fil",selectFileToUpload:"V\u00e6lg fil...",upload:"Overf\u00f8r",rasterFormat:"Rasterdataformat",noFileSelected:"Ingen fil valgt!",
+uploadSuccess:"Filoverf\u00f8rsel lykkedes!",url:"URL",_localized:{}}});

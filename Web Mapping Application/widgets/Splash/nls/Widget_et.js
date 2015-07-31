@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Splash/nls/strings":{_widgetLabel:"Splash",welcomeMessage:"Tere tulemast ArcGIS veebirakendusse!",licenceAgree:"N\u00f5ustun",licenceTerm:"ArcGIS veebirakenduse tingimustega",labelContinue:"J\u00e4tka",errorString:"* J\u00e4tkamiseks peate n\u00f5ustuma litsentsi tingimustega.",notShowAgain:"\u00c4ra n\u00e4ita seda v\u00e4lgutavat ekraani uuesti.",ok:"OK",cancel:"T\u00fchista",_localized:{}}});

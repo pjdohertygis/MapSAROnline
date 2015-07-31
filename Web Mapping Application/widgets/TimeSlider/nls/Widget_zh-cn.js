@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/TimeSlider/nls/strings":{_widgetLabel:"\u65f6\u95f4\u6ed1\u5757",enableTips:"\u5355\u51fb\u4ee5\u663e\u793a\u65f6\u95f4\u6ed1\u5757\u3002",disableTips:"\u6ca1\u6709\u4efb\u4f55\u53ef\u89c1\u7684\u65f6\u95f4\u611f\u77e5\u578b\u56fe\u5c42\u3002",timeExtent:"${FROMTIME} \u81f3 ${ENDTIME}",layers:"\u56fe\u5c42: ",speedLabel:"\u56de\u653e\u901f\u5ea6",_localized:{}}});

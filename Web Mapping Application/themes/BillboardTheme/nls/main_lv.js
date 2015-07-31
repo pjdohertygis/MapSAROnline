@@ -1,0 +1,2 @@
+//>>built
+define({"themes/BillboardTheme/nls/strings":{_themeLabel:"Rekl\u0101mas zonas dizains",_layout_default:"Noklus\u0113juma izk\u0101rtojums",_layout_right:"Pareizs izk\u0101rtojums",_localized:{}}});

@@ -1,0 +1,2 @@
+//>>built
+define({"themes/JewelryBoxTheme/nls/strings":{_themeLabel:"Motiv \u0161perkovnice",_layout_default:"V\u00fdchoz\u00ed rozvr\u017een\u00ed",_layout_layout1:"Rozvr\u017een\u00ed 1",_localized:{}}});

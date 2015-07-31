@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/Edit/setting/nls/strings":{enableUndoRedo:"Luba t\u00fchistamine ja ennistamine",toolbarVisible:"T\u00f6\u00f6riistariba n\u00e4htav",toolbarOptions:"T\u00f6\u00f6riistariba valikud",mergeVisible:"\u00dchenda",cutVisible:"L\u00f5ika",reshapeVisible:"Muuda kuju",back:"Tagasi",label:"Kiht",edit:"Muudetav",update:"Keela geomeetria uuendamine",fields:"V\u00e4ljad",actions:"Tegevused",editpageName:"Nimi",editpageAlias:"Alias",editpageVisible:"N\u00e4htav",editpageEditable:"Muudetav",noLayers:"Muudetavaid objektikihte pole saadaval",
+_localized:{}}});

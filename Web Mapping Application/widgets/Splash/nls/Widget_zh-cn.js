@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Splash/nls/strings":{_widgetLabel:"\u542f\u52a8",welcomeMessage:"\u6b22\u8fce\u4f7f\u7528 ArcGIS Web Application!",licenceAgree:"\u6211\u540c\u610f",licenceTerm:"ArcGIS Web \u5e94\u7528\u7a0b\u5e8f\u6761\u6b3e",labelContinue:"\u7ee7\u7eed",errorString:"* \u60a8\u9700\u9996\u5148\u540c\u610f\u6b64\u8bb8\u53ef\uff0c\u7136\u540e\u624d\u80fd\u7ee7\u7eed\u3002",notShowAgain:"\u4e0d\u518d\u663e\u793a\u6b64\u542f\u52a8\u753b\u9762\u3002",ok:"\u786e\u5b9a",cancel:"\u53d6\u6d88",_localized:{}}});

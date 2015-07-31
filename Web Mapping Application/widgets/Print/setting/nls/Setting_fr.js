@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Print/setting/nls/strings":{serviceURL:"URL du service",defaultTitle:"Titre par d\u00e9faut",defaultAuthor:"Auteur par d\u00e9faut",defaultCopyright:"Copyright par d\u00e9faut",defaultFormat:"Format par d\u00e9faut",defaultLayout:"Mise en page par d\u00e9faut",warning:"Entr\u00e9e incorrecte",ok:"OK",_localized:{}}});

@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Swipe/nls/strings":{_widgetLabel:"V\u00f5rdlus",swipeText:" Valige rullimise kaudu v\u00f5rreldav kiht.",spyglassText:"Valige pikksilmas kuvatav kiht.",disableTips:"Kl\u00f5psake v\u00f5rdleva rullimist\u00f6\u00f6riista keelamiseks.",enableTips:"Kl\u00f5psake v\u00f5rdleva rullimist\u00f6\u00f6riista lubamiseks.",_localized:{}}});

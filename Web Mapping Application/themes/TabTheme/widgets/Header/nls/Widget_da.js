@@ -1,0 +1,2 @@
+//>>built
+define({"themes/TabTheme/widgets/Header/nls/strings":{_widgetLabel:"Logo",signin:"Log ind",signout:"Log ud",about:"Om",signInTo:"Log ind p\u00e5",cantSignOutTip:"Denne funktion er ikke relevant i forh\u00e5ndsvisningen.",_localized:{}}});

@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Bookmark/nls/strings":{labelBookmarkName:"\u5efa\u7acb\u76ee\u524d\u6aa2\u8996\u7684\u66f8\u7c64",labelPlay:"\u5168\u90e8\u64ad\u653e",labelStop:"\u505c\u6b62",labelDelete:"\u522a\u9664",placeholderBookmarkName:"\u66f8\u7c64\u540d\u7a31",errorNameExist:"\u66f8\u7c64\u5df2\u5b58\u5728\uff01",errorNameNull:"\u66f8\u7c64\u540d\u7a31\u7121\u6548\uff01",_widgetLabel:"\u66f8\u7c64",_localized:{}}});

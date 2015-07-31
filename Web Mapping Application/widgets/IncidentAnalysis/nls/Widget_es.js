@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/IncidentAnalysis/nls/strings":{_widgetLabel:"An\u00e1lisis de incidentes",locate_incident:"Localizar incidente",clear_incidents:"Borrar incidentes",reverse_geocoded_address:"Direcci\u00f3n m\u00e1s pr\u00f3xima",reverse_geocoded_error:"No disponible",miles:"Millas",kilometers:"Kil\u00f3metros",feet:"Pies",meters:"Metros",yards:"Yardas",nauticalMiles:"Millas N\u00e1uticas",now:"AHORA",wind:"VIENTO",SUN:"DOM",MON:"LUN",TUE:"MAR",WED:"MI\u00c9",THU:"JUE",FRI:"VIE",SAT:"S\u00c1B",defaultTabMsg:"No se han identificado incidentes.",
+actionLabel:"Establecer como incidente",useMapExtent:"Usar la extensi\u00f3n del mapa actual",noFeaturesFound:"No se encontraron entidades.",downloadCSV:"DESCARGAR CSV",_localized:{}}});

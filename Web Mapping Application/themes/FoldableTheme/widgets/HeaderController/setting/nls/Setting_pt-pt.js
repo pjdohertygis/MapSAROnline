@@ -1,0 +1,2 @@
+//>>built
+define({"themes/FoldableTheme/widgets/HeaderController/setting/nls/strings":{group:"Nome",openAll:"Abrir Todos no Painel",dropDown:"Exibir Menu",noGroup:"N\u00e3o est\u00e1 definido qualquer grupo de widgets.",groupSetLabel:"Definir as propriedades de grupos de widgets",_localized:{}}});
