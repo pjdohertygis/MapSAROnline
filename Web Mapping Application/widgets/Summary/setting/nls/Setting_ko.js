@@ -1,3 +1,0 @@
-//>>built
-define({"widgets/Summary/setting/nls/strings":{selectLayer:"\uc694\uc57d \ub808\uc774\uc5b4 \uc120\ud0dd",filterField:"\uc694\uc57d \ub808\uc774\uc5b4 \ud544\ud130 \ud544\ub4dc",sum:"SUM",min:"MIN",max:"MAX",avg:"AVG",addField:"\uc694\uc57d \ud544\ub4dc \ucd94\uac00",label:"\ub808\uc774\ube14",type:"\uc720\ud615",field:"\ud544\ub4dc",actions:"\ub3d9\uc791",displayCluster:"\uc694\uc57d \uad70\uc9d1\uc810\uc73c\ub85c \ub514\uc2a4\ud50c\ub808\uc774",showFeatureCount:"\ud53c\ucc98 \uac1c\uc218 \ubcf4\uae30",
-featureCountLabel:"\ud53c\ucc98 \uac1c\uc218 \ub808\uc774\ube14",missingLayerInWebMap:"\uc694\uc57d \ub808\uc774\uc5b4\ub97c \uc6f9 \ub9f5\uc5d0 \ucd94\uac00\ud558\uc138\uc694.",_localized:{}}});

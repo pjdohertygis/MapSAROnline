@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Summary/nls/strings":{filter:"Filter",all:"K\u00f5ik",missingLayerInWebMap:"Veebikaardil ei ole t\u00f6\u00f6kihte.",missingSummaryLayerInConfig:"Kokkuv\u00f5ttekiht puudub.",_localized:{}}});

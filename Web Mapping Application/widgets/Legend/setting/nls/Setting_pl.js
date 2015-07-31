@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Legend/setting/nls/strings":{left:"Wyr\u00f3wnaj do lewej",right:"Wyr\u00f3wnaj do prawej",arrangement:"Rozmieszczenie",autoUpdate:"Automatyczna aktualizacja",respectCurrentMapScale:"Uwzgl\u0119dniaj bie\u017c\u0105c\u0105 skal\u0119 mapy",_localized:{}}});

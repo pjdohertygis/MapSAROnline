@@ -1,3 +1,0 @@
-//>>built
-define({"widgets/Geoprocessing/nls/strings":{_widgetLabel:"Geobearbetning",execute:"Utf\u00f6r",help:"Hj\u00e4lp",input:"Indata",output:"Utdata",executing:"K\u00f6r",requiredInfo:"\u00e4r obligatoriskt.",drawnOnMap:"Resultatet ritas p\u00e5 kartan.",clear:"Rensa",error:"Fel",noToolConfig:"Ingen geobearbetnings\u00e5tg\u00e4rd tillg\u00e4nglig.",useUrlForGPInput:"URL",useUploadForGPInput:"\u00d6verf\u00f6r fil",selectFileToUpload:"V\u00e4lj fil ...",upload:"\u00d6verf\u00f6r",rasterFormat:"Rasterdataformat",
-noFileSelected:"Ingen fil har valts!",uploadSuccess:"Filen har \u00f6verf\u00f6rts!",url:"URL",_localized:{}}});

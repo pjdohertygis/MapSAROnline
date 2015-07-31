@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Measurement/setting/nls/strings":{defaultAreaUnit:"Unit\u00e0 di superficie predefinita",defaultLengthUnit:"Unit\u00e0 di lunghezza predefinita",acres:"Acri",sqMiles:"Miglia quadre",sqKilometers:"Chilometri quadri",hectares:"Ettari",sqYards:"Iarde quadre",sqFeet:"Piedi quadri",sqMeters:"Metri quadri",miles:"Miglia",kilometers:"Chilometri",feet:"Piedi",meters:"Metri",yards:"Iarde",nauticalMiles:"Miglia nautiche",_localized:{}}});

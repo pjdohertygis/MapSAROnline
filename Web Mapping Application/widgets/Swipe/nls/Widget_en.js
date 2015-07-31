@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Swipe/nls/strings":{_widgetLabel:"Swipe",swipeText:" Select the layer you want to swipe",spyglassText:"Select the layer to appear within the spyglass",disableTips:"Click to disable the swipe tool",enableTips:"Click to enable the swipe tool",_localized:{}}});

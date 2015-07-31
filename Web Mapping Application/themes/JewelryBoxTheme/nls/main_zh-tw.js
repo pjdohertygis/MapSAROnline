@@ -1,2 +1,0 @@
-//>>built
-define({"themes/JewelryBoxTheme/nls/strings":{_themeLabel:"\u73e0\u5bf6\u7bb1\u4e3b\u984c",_layout_default:"\u9810\u8a2d\u7248\u9762\u914d\u7f6e",_layout_layout1:"\u7248\u9762\u914d\u7f6e 1",_localized:{}}});

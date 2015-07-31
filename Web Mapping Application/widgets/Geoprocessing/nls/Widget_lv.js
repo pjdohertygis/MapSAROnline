@@ -1,3 +1,0 @@
-//>>built
-define({"widgets/Geoprocessing/nls/strings":{_widgetLabel:"\u0122eodatu apstr\u0101de",execute:"Izpild\u012bt",help:"Pal\u012bdz\u012bba",input:"Ievade",output:"Izvade",executing:"Izpilde",requiredInfo:"ir oblig\u0101ts.",drawnOnMap:"Rezult\u0101ts tiek z\u012bm\u0113ts kart\u0113.",clear:"Not\u012br\u012bt",error:"K\u013c\u016bda",noToolConfig:"Nav pieejams neviens \u0123eodatu apstr\u0101des uzdevums.",useUrlForGPInput:"URL",useUploadForGPInput:"Aug\u0161upiel\u0101d\u0113jiet failu",selectFileToUpload:"Atlasiet failu...",
-upload:"Aug\u0161upiel\u0101d\u0113t",rasterFormat:"Rastra datu form\u0101ts",noFileSelected:"Nav atlas\u012bts fails!",uploadSuccess:"Faila aug\u0161upiel\u0101de veiksm\u012bga!",url:"URL",_localized:{}}});

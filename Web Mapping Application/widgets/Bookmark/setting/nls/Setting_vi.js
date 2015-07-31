@@ -1,3 +1,0 @@
-//>>built
-define({"widgets/Bookmark/setting/nls/strings":{add:"B\u1ea5m \u0111\u1ec3 Th\u00eam \u0110\u00e1nh d\u1ea5u M\u1edbi",title:"Ti\u00eau \u0111\u1ec1",placeholderBookmarkName:"T\u00ean \u0110\u00e1nh d\u1ea5u",ok:"OK",cancel:"H\u1ee7y",warning:"Vui l\u00f2ng k\u1ebft th\u00fac ch\u1ec9nh s\u1eeda!",edit:"Ch\u1ec9nh s\u1eeda \u0111\u00e1nh d\u1ea5u",errorNameExist:"\u0110\u00e1nh d\u1ea5u \u0111\u00e3 t\u1ed3n t\u1ea1i!",errorNameNull:"T\u00ean \u0111\u00e1nh d\u1ea5u kh\u00f4ng h\u1ee3p l\u1ec7!",
-addBookmark:"T\u1ea1o m\u1ed9t \u0110\u00e1nh d\u1ea5u M\u1edbi",thumbnail:"H\u00ecnh thu nh\u1ecf",thumbnailHint:"B\u1ea5m v\u00e0o h\u00ecnh \u1ea3nh \u0111\u1ec3 c\u1eadp nh\u1eadt",_localized:{}}});

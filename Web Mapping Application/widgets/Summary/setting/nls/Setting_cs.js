@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Summary/setting/nls/strings":{selectLayer:"Vybrat vrstvu souhrnu",filterField:"Pole filtru vrstev souhrnu",sum:"SUMA",min:"MIN",max:"MAX",avg:"AVG",addField:"P\u0159idat pole souhrnu",label:"\u0160t\u00edtek",type:"Typ",field:"Pole",actions:"Akce",displayCluster:"Zobrazit shluky souhrn\u016f",showFeatureCount:"Zobrazit po\u010det prvk\u016f",featureCountLabel:"Popisek po\u010dtu prvk\u016f",missingLayerInWebMap:"P\u0159idejte do webov\u00e9 mapy vrstvy souhrnu.",_localized:{}}});

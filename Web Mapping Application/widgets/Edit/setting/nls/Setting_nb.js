@@ -1,3 +1,0 @@
-//>>built
-define({"widgets/Edit/setting/nls/strings":{enableUndoRedo:"Aktiver Angre/Gjenta",toolbarVisible:"Verkt\u00f8ylinje synlig",toolbarOptions:"Verkt\u00f8ylinjealternativer",mergeVisible:"Sl\u00e5 sammen",cutVisible:"Klipp ut",reshapeVisible:"Omforme",back:"Bak",label:"Lag",edit:"Redigerbar",update:"Deaktiver geometrioppdatering",fields:"Felter",actions:"Handlinger",editpageName:"Navn",editpageAlias:"Alias",editpageVisible:"Synlig",editpageEditable:"Redigerbar",noLayers:"Det er ingen redigerbare geoobjektlag tilgjengelig",
-_localized:{}}});

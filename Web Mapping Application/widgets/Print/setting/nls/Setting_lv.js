@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Print/setting/nls/strings":{serviceURL:"Servisa URL",defaultTitle:"Noklus\u0113juma virsraksts",defaultAuthor:"Noklus\u0113juma autors",defaultCopyright:"Noklus\u0113juma autorties\u012bbas",defaultFormat:"Noklus\u0113juma form\u0101ts",defaultLayout:"Noklus\u0113juma izk\u0101rtojums",warning:"Nepareiza ievade",ok:"Labi",_localized:{}}});

@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/MyLocation/nls/strings":{_widgetLabel:"Sijaintini",title:"Etsi sijaintini",browserError:"T\u00e4m\u00e4 selain ei tue geosijaintia.",failureFinding:"Sijaintiasi ei l\u00f6ydy. Tarkista selaimestasi, ett\u00e4 sijaintisi on jaettu.",_localized:{}}});

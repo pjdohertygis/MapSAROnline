@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Swipe/setting/nls/strings":{styleText:"Nadaj styl dla narz\u0119dzia zwijania",vertical:"Pasek pionowy",horizontal:"S\u0142upkowy poziomy",scope:"Lupa",layerText:"Wybierz warstw\u0119, kt\u00f3ra ma by\u0107 domy\u015blnie zwijana",spyglassText:"Wybierz warstw\u0119, kt\u00f3ra ma si\u0119 domy\u015blnie pojawia\u0107 w lupie.",layerHint:"Uwaga: Je\u015bli warstwa jest ukryta pod g\u00f3rnymi warstwami, u\u017cycie zwijania nie przyniesie rezultat\u00f3w.",_localized:{}}});

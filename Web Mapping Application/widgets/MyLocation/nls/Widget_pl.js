@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/MyLocation/nls/strings":{_widgetLabel:"Moja lokalizacja",title:"Znajd\u017a moj\u0105 lokalizacj\u0119",browserError:"Przegl\u0105darka nie obs\u0142uguje geolokalizacji.",failureFinding:"Nie mo\u017cna odnale\u017a\u0107 Twojej lokalizacji. Sprawd\u017a ustawienia przegl\u0105darki i upewnij si\u0119, \u017ce Twoja lokalizacja zosta\u0142a udost\u0119pniona.",_localized:{}}});

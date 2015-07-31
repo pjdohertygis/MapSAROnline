@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Bookmark/nls/strings":{labelBookmarkName:"Agregar la vista actual a marcadores",labelPlay:"Reproducir todo",labelStop:"Detener",labelDelete:"Eliminar",placeholderBookmarkName:"Nombre del marcador",errorNameExist:"\u00a1El marcador ya existe!",errorNameNull:"\u00a1Nombre del marcador no v\u00e1lido!",_widgetLabel:"Marcador",_localized:{}}});

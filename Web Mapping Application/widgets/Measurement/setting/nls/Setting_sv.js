@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Measurement/setting/nls/strings":{defaultAreaUnit:"Standardenhet f\u00f6r yta",defaultLengthUnit:"Standardenhet f\u00f6r l\u00e4ngd",acres:"Tunnland",sqMiles:"Engelska kvadratmil",sqKilometers:"Kvadratkilometer",hectares:"Hektar",sqYards:"Kvadratyard",sqFeet:"Kvadratfot",sqMeters:"Kvadratmeter",miles:"Engelska mil",kilometers:"Kilometer",feet:"Fot",meters:"Meter",yards:"Yard",nauticalMiles:"Nautiska mil",_localized:{}}});

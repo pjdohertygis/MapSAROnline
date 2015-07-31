@@ -1,2 +1,0 @@
-//>>built
-define({"themes/LaunchpadTheme/widgets/Header/nls/strings":{_widgetLabel:"\u9801\u7709",signin:"\u767b\u5165",signout:"\u767b\u51fa",about:"\u95dc\u65bc",signInTo:"\u767b\u5165\u5230",cantSignOutTip:"\u6b64\u529f\u80fd\u4e0d\u9069\u7528\u65bc\u9810\u89bd\u6a21\u5f0f\u3002",_localized:{}}});

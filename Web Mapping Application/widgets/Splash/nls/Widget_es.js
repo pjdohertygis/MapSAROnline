@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Splash/nls/strings":{_widgetLabel:"Pantalla de presentaci\u00f3n",welcomeMessage:"\u00a1Bienvenido a ArcGIS Web Application!",licenceAgree:"Acepto los",licenceTerm:"T\u00e9rminos de ArcGIS Web Application",labelContinue:"Continuar",errorString:"* Tienes que aceptar la licencia para continuar.",notShowAgain:"No mostrar esta pantalla de presentaci\u00f3n de nuevo.",ok:"Aceptar",cancel:"Cancelar",_localized:{}}});

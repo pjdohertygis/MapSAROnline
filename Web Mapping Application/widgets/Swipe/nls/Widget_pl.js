@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Swipe/nls/strings":{_widgetLabel:"Zwijanie",swipeText:" Wybierz warstw\u0119, kt\u00f3ra ma by\u0107 zwijana",spyglassText:"Wybierz warstw\u0119, kt\u00f3ra ma si\u0119 pojawi\u0107 w lupie",disableTips:"Kliknij, aby wy\u0142\u0105czy\u0107 narz\u0119dzie zwijania",enableTips:"Kliknij, aby w\u0142\u0105czy\u0107 narz\u0119dzie zwijania",_localized:{}}});

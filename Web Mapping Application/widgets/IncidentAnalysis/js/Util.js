@@ -1,3 +1,0 @@
-//>>built
-define(["dojo/has","dojo/dom-construct"],function(d,e){return{_isIE11:function(){var a=0,b=/MSIE (\d+\.\d+);/.test(navigator.userAgent),c=!!navigator.userAgent.match(/Trident\/7.0/),d=navigator.userAgent.indexOf("rv:11.0");b&&(a=Number(RegExp.$1));-1!==navigator.appVersion.indexOf("MSIE 10")&&(a=10);c&&-1!==d&&(a=11);return 11===a},download:function(a,b,c){d("ie")||this._isIE11()?(a=window.top.open("about:blank","_blank"),a.document.write(c),a.document.close(),a.document.execCommand("SaveAs",!0,b),
-a.close()):(b=e.create("a",{href:"data:attachment/csv;charset\x3dutf-8,"+encodeURIComponent(c),target:"_blank",download:b},a),d("safari")?(c=document.createEvent("MouseEvents"),c.initEvent("click",!0,!0),b.dispatchEvent(c)):b.click(),e.destroy(b))}}});

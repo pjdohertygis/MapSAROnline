@@ -1,2 +1,0 @@
-//>>built
-define({"themes/JewelryBoxTheme/widgets/HeaderController/nls/strings":{_widgetLabel:"Ba\u015fl\u0131k Denetleyici",signin:"Oturum A\u00e7ma",signout:"Oturum Kapat",about:"Hakk\u0131nda",signInTo:"\u015eurada oturum a\u00e7:",cantSignOutTip:"Bu i\u015flev \u00f6n izleme modunda yok.",_localized:{}}});

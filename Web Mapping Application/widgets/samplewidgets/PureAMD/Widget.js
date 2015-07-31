@@ -1,3 +1,0 @@
-//>>built
-define(["jimu/BaseWidget"],function(e){function a(a){this.constructor(a)}function b(){alert(c.id)}var c,d;a.prototype=e.prototype;a.prototype.templateString='\x3cdiv\x3eThis is a pure amd widget.\x3cinput type\x3d"button" value\x3d"Get Map Id" id\x3d"amd-mapid"\x3e\x3c/div\x3e';d=a.prototype.startup;a.prototype.startup=function(){console.log("PureAMDWidget startup");d.call(this);c=this.map;var a=document.getElementById("amd-mapid");a.addEventListener?a.addEventListener("click",b):a.attachEvent&&a.attachEvent("onclick",
-b)};a.hasStyle=!1;a.hasUIFile=!1;a.hasLocale=!1;a.hasConfig=!1;return a});

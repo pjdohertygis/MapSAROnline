@@ -1,2 +1,0 @@
-//>>built
-define({"themes/JewelryBoxTheme/widgets/HeaderController/setting/nls/strings":{group:"Nombre",openAll:"Abrir todo en panel",dropDown:"Mostrar en men\u00fa desplegable",noGroup:"No se ha definido ning\u00fan grupo de widgets.",groupSetLabel:"Establecer propiedades de grupos de widgets",_localized:{}}});

@@ -1,3 +1,0 @@
-//>>built
-define({"widgets/LayerList/nls/strings":{_widgetLabel:"\u56fe\u5c42\u5217\u8868",titleBasemap:"\u5e95\u56fe",titleLayers:"\u4e1a\u52a1\u56fe\u5c42",labelLayer:"\u56fe\u5c42\u540d\u79f0",itemZoomTo:"\u7f29\u653e\u81f3",itemTransparency:"\u900f\u660e\u5ea6",itemTransparent:"\u900f\u660e",itemOpaque:"\u4e0d\u900f\u660e",itemMoveUp:"\u4e0a\u79fb",itemMoveDown:"\u4e0b\u79fb",itemDesc:"\u63cf\u8ff0",itemDownload:"\u4e0b\u8f7d",itemToAttributeTable:"\u6253\u5f00\u5c5e\u6027\u8868",itemShowItemDetails:"\u663e\u793a\u9879\u76ee\u8be6\u7ec6\u4fe1\u606f",
-empty:"\u7a7a",removePopup:"\u7981\u7528\u5f39\u51fa\u7a97\u53e3",enablePopup:"\u542f\u7528\u5f39\u51fa\u7a97\u53e3",_localized:{}}});

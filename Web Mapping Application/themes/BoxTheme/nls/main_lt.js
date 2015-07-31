@@ -1,2 +1,0 @@
-//>>built
-define({"themes/BoxTheme/nls/strings":{_themeLabel:"D\u0117\u017eu\u010di\u0173 tema",_layout_default:"Numatytasis maketas",_layout_top:"Vir\u0161utinis i\u0161d\u0117stymas",_localized:{}}});

@@ -1,2 +1,0 @@
-//>>built
-define({"themes/FoldableTheme/widgets/HeaderController/nls/strings":{_widgetLabel:"\u9875\u7709\u63a7\u5236\u5668",signin:"\u767b\u5f55",signout:"\u767b\u51fa",about:"\u5173\u4e8e",signInTo:"\u767b\u5f55\u5230",cantSignOutTip:"\u6b64\u529f\u80fd\u4e0d\u9002\u7528\u4e8e\u9884\u89c8\u6a21\u5f0f\u3002",_localized:{}}});

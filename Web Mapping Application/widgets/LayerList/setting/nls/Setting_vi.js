@@ -1,3 +1,0 @@
-//>>built
-define({"widgets/LayerList/setting/nls/strings":{showLegend:"Hi\u1ec3n th\u1ecb Ch\u00fa gi\u1ea3i",controlPopupMenuTitle:"Ch\u1ecdn c\u00e1c thao t\u00e1c \u0111\u01b0\u1ee3c hi\u1ec3n th\u1ecb trong menu ng\u1eef c\u1ea3nh l\u1edbp.",zoomto:"Ph\u00f3ng T\u1edbi",transparency:"\u0110\u1ed9 trong su\u1ed1t",controlPopup:"B\u1eadt / T\u1eaft C\u1eeda s\u1ed5 pop-up",moveUpAndDown:"Di chuy\u1ec3n l\u00ean / Di chuy\u1ec3n xu\u1ed1ng",attributeTable:"M\u1edf B\u1ea3ng Thu\u1ed9c t\u00ednh",url:"Th\u00f4ng tin m\u00f4 ta\u0309 / Hi\u1ec7n Th\u00f4ng tin chi ti\u1ebft M\u1ee5c / T\u1ea3i v\u1ec1",
-_localized:{}}});

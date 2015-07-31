@@ -1,2 +1,0 @@
-//>>built
-define({"themes/LaunchpadTheme/widgets/AnchorBarController/nls/strings":{_themeLabel:"Paleisties klaviat\u016bros tema",_layout_default:"Numatytasis maketas",_layout_layout1:"0 i\u0161d\u0117stymas",more:"Daugiau valdikli\u0173",_localized:{}}});

@@ -1,2 +1,0 @@
-//>>built
-define({"themes/JewelryBoxTheme/widgets/HeaderController/nls/strings":{_widgetLabel:"Controller van koptekst",signin:"Aanmelden",signout:"Afmelden",about:"Over",signInTo:"Meld u aan bij",cantSignOutTip:"Deze functie is niet beschikbaar in de voorbeeldmodus.",_localized:{}}});

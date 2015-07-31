@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Splash/nls/strings":{_widgetLabel:"Splash",welcomeMessage:"Benvenuti all'applicazione Web ArcGIS",licenceAgree:"Accetto le",licenceTerm:"Condizioni per l'applicazione Web ArcGIS",labelContinue:"Continua",errorString:"* \u00c8 necessario accettare la licenza per continuare.",notShowAgain:"Non visualizzare pi\u00f9 la schermata d'avvio.",ok:"OK",cancel:"Annulla",_localized:{}}});

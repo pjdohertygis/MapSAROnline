@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Measurement/setting/nls/strings":{defaultAreaUnit:"Pindala vaike\u00fchik",defaultLengthUnit:"Pikkuse vaike\u00fchik",acres:"Aakrit",sqMiles:"Ruutmiili",sqKilometers:"Ruutkilomeetrit",hectares:"Hektarit",sqYards:"Ruutjardi",sqFeet:"Ruutjalga",sqMeters:"Ruutmeetrit",miles:"Miili",kilometers:"Kilomeetrit",feet:"Jalga",meters:"Meetrit",yards:"Jardi",nauticalMiles:"Meremiili",_localized:{}}});

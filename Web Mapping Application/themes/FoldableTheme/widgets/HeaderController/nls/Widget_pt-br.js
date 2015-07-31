@@ -1,2 +1,0 @@
-//>>built
-define({"themes/FoldableTheme/widgets/HeaderController/nls/strings":{_widgetLabel:"Controlador do Cabe\u00e7alho",signin:"Entrar",signout:"Sair",about:"Sobre",signInTo:"Entrar no",cantSignOutTip:"Esta fun\u00e7\u00e3o \u00e9 N/A no modo de visualiza\u00e7\u00e3o.",_localized:{}}});

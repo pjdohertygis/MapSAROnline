@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/MyLocation/nls/strings":{_widgetLabel:"Mano vieta",title:"Rasti mano viet\u0105",browserError:"\u0160i nar\u0161ykl\u0117je nepalaiko geolokacijos.",failureFinding:"Nepavyksta rasti j\u016bs\u0173 vietos. Patikrinkite nar\u0161ykl\u0117je, ar bendrinate savo buvimo viet\u0105.",_localized:{}}});

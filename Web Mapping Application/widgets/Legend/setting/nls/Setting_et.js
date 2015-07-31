@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Legend/setting/nls/strings":{left:"Vasakjoondus",right:"Paremjoondus",arrangement:"Asetus",autoUpdate:"Uuenda automaatselt",respectCurrentMapScale:"S\u00e4ilita kaardi praegune m\u00f5\u00f5tkava",_localized:{}}});

@@ -1,2 +1,0 @@
-//>>built
-define({"themes/LaunchpadTheme/widgets/AnchorBarController/nls/strings":{_themeLabel:"Tema Launchpad",_layout_default:"Dise\u00f1o predeterminado",_layout_layout1:"Dise\u00f1o 0",more:"M\u00e1s widgets",_localized:{}}});

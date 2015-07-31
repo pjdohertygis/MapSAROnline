@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Summary/nls/strings":{filter:"Filter",all:"Alle",missingLayerInWebMap:"Ingen operative lag i webkartet.",missingSummaryLayerInConfig:"Mangler sammendragslag.",_localized:{}}});

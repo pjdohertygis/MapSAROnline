@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Measurement/setting/nls/strings":{defaultAreaUnit:"Oletuspinta-alayksikk\u00f6",defaultLengthUnit:"Oletuspituusyksikk\u00f6",acres:"Eekkeri\u00e4",sqMiles:"Neli\u00f6mailia",sqKilometers:"Neli\u00f6kilometri\u00e4",hectares:"Hehtaaria",sqYards:"Neli\u00f6jaardia",sqFeet:"Neli\u00f6jalkaa",sqMeters:"Neli\u00f6metri\u00e4",miles:"Mailia",kilometers:"Kilometri\u00e4",feet:"Jalkaa",meters:"Metri\u00e4",yards:"Jaardia",nauticalMiles:"Meripeninkulmaa",_localized:{}}});

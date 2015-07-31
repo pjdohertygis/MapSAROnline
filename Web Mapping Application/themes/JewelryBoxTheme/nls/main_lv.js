@@ -1,2 +1,0 @@
-//>>built
-define({"themes/JewelryBoxTheme/nls/strings":{_themeLabel:"Rotaslietu k\u0101rbi\u0146as dizains",_layout_default:"Noklus\u0113juma izk\u0101rtojums",_layout_layout1:"1. izk\u0101rtojums",_localized:{}}});

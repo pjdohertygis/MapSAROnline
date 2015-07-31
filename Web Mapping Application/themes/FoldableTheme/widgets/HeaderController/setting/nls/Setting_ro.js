@@ -1,2 +1,0 @@
-//>>built
-define({"themes/FoldableTheme/widgets/HeaderController/setting/nls/strings":{group:"Nume",openAll:"Deschidere toate din panou",dropDown:"Afi\u015fare \u00een meniu derulant",noGroup:"Nu este setat niciun grup de widgeturi.",groupSetLabel:"Setare propriet\u0103\u0163i pentru grupuri de widgeturi",_localized:{}}});

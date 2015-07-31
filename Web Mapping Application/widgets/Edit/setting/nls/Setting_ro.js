@@ -1,3 +1,0 @@
-//>>built
-define({"widgets/Edit/setting/nls/strings":{enableUndoRedo:"Activare Anulare/Repetare",toolbarVisible:"Bar\u0103 de instrumente vizibil\u0103",toolbarOptions:"Op\u0163iuni pentru bara de instrumente",mergeVisible:"Unificare",cutVisible:"Decupare",reshapeVisible:"Remodelare",back:"\u00cenapoi",label:"Strat tematic",edit:"Editabil",update:"Dezactivare actualizare geometrie",fields:"C\u00e2mpuri",actions:"Ac\u0163iuni",editpageName:"Nume",editpageAlias:"Pseudonim",editpageVisible:"Vizibil",editpageEditable:"Editabil",
-noLayers:"Nu sunt disponibile straturi tematice de obiecte spa\u0163iale editabile",_localized:{}}});

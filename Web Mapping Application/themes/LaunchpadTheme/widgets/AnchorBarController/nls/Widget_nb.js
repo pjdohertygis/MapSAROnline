@@ -1,2 +1,0 @@
-//>>built
-define({"themes/LaunchpadTheme/widgets/AnchorBarController/nls/strings":{_themeLabel:"Startfelt-tema",_layout_default:"Standard oppsett",_layout_layout1:"Oppsett 0",more:"Flere miniprogrammer",_localized:{}}});

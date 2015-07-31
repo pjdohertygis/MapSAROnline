@@ -1,2 +1,0 @@
-//>>built
-define({"themes/FoldableTheme/widgets/HeaderController/setting/nls/strings":{group:"\u540d\u7a31",openAll:"\u9762\u677f\u4e2d\u7684\u201c\u6253\u958b\u6240\u6709\u201d",dropDown:"\u5728\u4e0b\u62c9\u529f\u80fd\u8868\u4e2d\u986f\u793a",noGroup:"\u4e0d\u5b58\u5728 widget \u7fa4\u7d44\u96c6\u3002",groupSetLabel:"\u8a2d\u5b9a widget \u7fa4\u7d44\u5c6c\u6027",_localized:{}}});

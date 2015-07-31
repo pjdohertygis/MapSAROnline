@@ -1,2 +1,0 @@
-//>>built
-define({"themes/LaunchpadTheme/widgets/AnchorBarController/nls/strings":{_themeLabel:"Teema Launchpad",_layout_default:"Vaikimisi paigutus",_layout_layout1:"Paigutus 0",more:"Rohkem vidinaid",_localized:{}}});

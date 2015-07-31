@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Measurement/setting/nls/strings":{defaultAreaUnit:"Standardenhed for omr\u00e5de",defaultLengthUnit:"Standardenhed for l\u00e6ngde",acres:"Acres",sqMiles:"Kvadrat-miles",sqKilometers:"Kvadratkilometer",hectares:"Hektar",sqYards:"Kvadrat-yards",sqFeet:"Kvadrat-fod",sqMeters:"Kvadratmeter",miles:"Miles",kilometers:"Kilometer",feet:"Fod",meters:"Meter",yards:"Yards",nauticalMiles:"S\u00f8mil",_localized:{}}});

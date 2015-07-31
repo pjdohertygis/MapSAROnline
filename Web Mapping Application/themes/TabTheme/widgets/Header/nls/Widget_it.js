@@ -1,2 +1,0 @@
-//>>built
-define({"themes/TabTheme/widgets/Header/nls/strings":{_widgetLabel:"Intestazione",signin:"Accedi",signout:"Disconnetti",about:"Informazioni",signInTo:"Accedi a",cantSignOutTip:"Questa funzione non \u00e8 disponibile in modalit\u00e0 anteprima.",_localized:{}}});

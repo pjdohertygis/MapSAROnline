@@ -1,2 +1,0 @@
-//>>built
-define({"themes/LaunchpadTheme/nls/strings":{_themeLabel:"\u5feb\u901f\u542f\u52a8\u677f\u4e3b\u9898",_layout_default:"\u9ed8\u8ba4\u5e03\u5c40",_layout_right:"\u6b63\u786e\u5e03\u5c40",_localized:{}}});

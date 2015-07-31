@@ -1,3 +1,0 @@
-//>>built
-define(["require","jimu/BaseWidget","jimu/loaderplugins/jquery-loader!https://code.jquery.com/jquery-git1.min.js"],function(e,f,b){function a(a){this.constructor(a)}function g(){alert(c.id)}var c,d;a.prototype=f.prototype;b.ajax(e.toUrl("./Widget.html"),{async:!1}).done(function(b){a.prototype.templateString=b});d=a.prototype.startup;a.prototype.startup=function(){console.log("UseJQueryWidget startup");d.call(this);c=this.map;b(".jimu-widget-use-jquery .map-id").click(g);b(".jimu-widget-use-jquery .my-title").text("title added by jquery.")};
-a.hasStyle=!1;a.hasUIFile=!1;a.hasLocale=!1;a.hasConfig=!1;return a});

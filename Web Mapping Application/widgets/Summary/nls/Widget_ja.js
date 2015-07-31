@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Summary/nls/strings":{filter:"\u30d5\u30a3\u30eb\u30bf\u30fc",all:"\u3059\u3079\u3066",missingLayerInWebMap:"Web \u30de\u30c3\u30d7\u306b\u64cd\u4f5c\u30ec\u30a4\u30e4\u30fc\u304c\u3042\u308a\u307e\u305b\u3093\u3002",missingSummaryLayerInConfig:"\u30b5\u30de\u30ea\u30fc \u30ec\u30a4\u30e4\u30fc\u304c\u3042\u308a\u307e\u305b\u3093\u3002",_localized:{}}});

@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Swipe/nls/strings":{_widgetLabel:"Swipe",swipeText:" V\u00e6lg det lag, hvor du vil bruge swipe-v\u00e6rkt\u00f8jet",spyglassText:"V\u00e6lg det lag, der skal vises i kikkerten",disableTips:"Klik for at deaktivere swipe-v\u00e6rkt\u00f8jet",enableTips:"Klik for at aktivere swipe-v\u00e6rkt\u00f8jet",_localized:{}}});

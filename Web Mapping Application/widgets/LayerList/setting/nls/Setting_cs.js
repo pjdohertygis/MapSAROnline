@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/LayerList/setting/nls/strings":{showLegend:"Zobrazit legendu",controlPopupMenuTitle:"Zvolte akce, kter\u00e9 se maj\u00ed zobrazovat v kontextov\u00e9 nab\u00eddce vrstvy.",zoomto:"P\u0159ibl\u00ed\u017eit na",transparency:"Pr\u016fhlednost",controlPopup:"Povolit/zak\u00e1zat vyskakovac\u00ed okna",moveUpAndDown:"Posunout nahoru / dol\u016f",attributeTable:"Otev\u0159\u00edt atributovou tabulku",url:"Popis / Zobrazit podrobnosti polo\u017eky / Stahov\u00e1n\u00ed",_localized:{}}});

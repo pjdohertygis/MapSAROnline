@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Print/setting/nls/strings":{serviceURL:"Paslaugos URL",defaultTitle:"Numatytasis pavadinimas",defaultAuthor:"Numatytasis autorius",defaultCopyright:"Numatytosios autoriaus teis\u0117s",defaultFormat:"Numatytasis formatas",defaultLayout:"Numatytasis maketas",warning:"Klaidinga \u012fvestis",ok:"Gerai",_localized:{}}});

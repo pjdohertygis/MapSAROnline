@@ -1,2 +1,0 @@
-//>>built
-define({"themes/FoldableTheme/widgets/HeaderController/setting/nls/strings":{group:"Name",openAll:"Open All in Panel",dropDown:"Show in Drop-down Menu",noGroup:"There is no widget group set.",groupSetLabel:"Set widget groups properties",_localized:{}}});

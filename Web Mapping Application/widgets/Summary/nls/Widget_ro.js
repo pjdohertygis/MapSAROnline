@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Summary/nls/strings":{filter:"Filtru",all:"Totul",missingLayerInWebMap:"Niciun strat tematic opera\u0163ional \u00een harta web.",missingSummaryLayerInConfig:"Strat tematic rezumat lips\u0103.",_localized:{}}});

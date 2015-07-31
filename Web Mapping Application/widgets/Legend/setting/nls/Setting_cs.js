@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Legend/setting/nls/strings":{left:"Zarovnat doleva",right:"Zarovnat doprava",arrangement:"Uspo\u0159\u00e1d\u00e1n\u00ed",autoUpdate:"Automatick\u00e1 aktualizace",respectCurrentMapScale:"Zohlednit sou\u010dasn\u00e9 m\u011b\u0159\u00edtko mapy",_localized:{}}});

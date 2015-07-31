@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/OverviewMap/setting/nls/strings":{visible:"Vis oversiktskart som standard",minWidth:"Min. bredde",minHeight:"Min. h\u00f8yde",maxWidth:"Maks. bredde",maxHeight:"Maks. h\u00f8yde",minText:"Minimum",maxText:"maksimum",attachText:"Angi i hvilket hj\u00f8rne av kartet dette miniprogrammet skal legges til i.",expandText:"Utvid miniprogrammet i begynnelsen",topLeft:"\u00d8vre venstre",topRight:"\u00d8vre h\u00f8yre",bottomLeft:"Nedre venstre",bottomRight:"Nedre h\u00f8yre",_localized:{}}});

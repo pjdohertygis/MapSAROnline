@@ -1,2 +1,0 @@
-//>>built
-define({"themes/JewelryBoxTheme/widgets/HeaderController/nls/strings":{_widgetLabel:"Header-controller",signin:"Log ind",signout:"Log ud",about:"Om",signInTo:"Log ind p\u00e5",cantSignOutTip:"Denne funktion er ikke relevant i forh\u00e5ndsvisningen.",_localized:{}}});

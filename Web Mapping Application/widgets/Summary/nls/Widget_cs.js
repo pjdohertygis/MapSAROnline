@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Summary/nls/strings":{filter:"Filtr",all:"V\u0161e",missingLayerInWebMap:"Ve webov\u00e9 map\u011b nejsou k dispozici \u017e\u00e1dn\u00e9 opera\u010dn\u00ed vrstvy.",missingSummaryLayerInConfig:"Chyb\u00ed vrstva souhrnu.",_localized:{}}});

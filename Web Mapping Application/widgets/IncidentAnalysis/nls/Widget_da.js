@@ -1,3 +1,0 @@
-//>>built
-define({"widgets/IncidentAnalysis/nls/strings":{_widgetLabel:"H\u00e6ndelsesanalyse",locate_incident:"Find h\u00e6ndelse",clear_incidents:"Ryd h\u00e6ndelser",reverse_geocoded_address:"N\u00e6rmeste adresse",reverse_geocoded_error:"Not available",miles:"Miles",kilometers:"Kilometer",feet:"Fod",meters:"Meter",yards:"Yards",nauticalMiles:"S\u00f8mil",now:"NU",wind:"VIND",SUN:"S\u00d8N",MON:"MAN",TUE:"TIR",WED:"ONS",THU:"TOR",FRI:"FRE",SAT:"L\u00d8R",defaultTabMsg:"Ingen h\u00e6ndelser identificeret.",
-actionLabel:"Indstil som h\u00e6ndelse",useMapExtent:"Brug den aktuelle kortudstr\u00e6kning",noFeaturesFound:"Ingen objekte fundet.",downloadCSV:"HENT CSV",_localized:{}}});

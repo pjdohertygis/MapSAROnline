@@ -1,3 +1,0 @@
-//>>built
-define({"widgets/Edit/setting/nls/strings":{enableUndoRedo:"Habilitar deshacer/rehacer",toolbarVisible:"Barra de herramientas visible",toolbarOptions:"Opciones de barra de herramientas",mergeVisible:"Fusionar",cutVisible:"Cortar",reshapeVisible:"Cambiar de forma",back:"Atr\u00e1s",label:"Capa",edit:"Editable",update:"Deshabilitar actualizar geometr\u00eda",fields:"Campos",actions:"Acciones",editpageName:"Nombre",editpageAlias:"Alias",editpageVisible:"Visible",editpageEditable:"Editable",noLayers:"No hay disponibles capas de entidades editables",
-_localized:{}}});

@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Summary/nls/strings":{filter:"Filtruoti",all:"Viskas",missingLayerInWebMap:"Internetiniame \u017eem\u0117lapyje darbini\u0173 sluoksni\u0173 n\u0117ra.",missingSummaryLayerInConfig:"N\u0117ra suvestin\u0117s sluoksnio.",_localized:{}}});

@@ -1,2 +1,0 @@
-//>>built
-define({"themes/BoxTheme/nls/strings":{_themeLabel:"Lodzi\u0146a dizains",_layout_default:"Noklus\u0113juma izk\u0101rtojums",_layout_top:"Aug\u0161da\u013cas izk\u0101rtojums",_localized:{}}});

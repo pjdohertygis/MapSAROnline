@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/LayerList/setting/nls/strings":{showLegend:"Mostrar legenda",controlPopupMenuTitle:"Escolha quais a\u00e7\u00f5es s\u00e3o mostradas no menu de contexto da camada.",zoomto:"Zoom Para",transparency:"Transpar\u00eancia",controlPopup:"Habilitar / Desabilitar Pop-up",moveUpAndDown:"Mover para Cima / Mover para Baixo",attributeTable:"Abrir Tabela de Atributos",url:"Descri\u00e7\u00e3o / Mostrar Detalhes do Item / Download",_localized:{}}});

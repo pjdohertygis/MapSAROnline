@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Swipe/nls/strings":{_widgetLabel:"Keitiklis",swipeText:" Pasirinkite sluoksn\u012f, kur\u012f norite keisti",spyglassText:"Pasirinkite sluoksn\u012f, kuris atsiras po didinamuoju stiklu.",disableTips:"Paspauskite, jei norite i\u0161jungti keitiklio \u012frank\u012f",enableTips:"Paspauskite, jei norite \u012fjungti keitiklio \u012frank\u012f",_localized:{}}});

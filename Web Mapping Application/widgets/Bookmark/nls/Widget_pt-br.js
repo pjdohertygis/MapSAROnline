@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Bookmark/nls/strings":{labelBookmarkName:"Marcar a visualiza\u00e7\u00e3o atual",labelPlay:"Reproduzir Todos",labelStop:"Parar",labelDelete:"Excluir",placeholderBookmarkName:"Nome do Marcador",errorNameExist:"O marcador existe!",errorNameNull:"Nome de marcador inv\u00e1lido!",_widgetLabel:"Marcador",_localized:{}}});

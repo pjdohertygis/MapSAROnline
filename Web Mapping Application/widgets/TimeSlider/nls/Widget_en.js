@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/TimeSlider/nls/strings":{_widgetLabel:"Time Slider",enableTips:"Click to display the time slider.",disableTips:"No time-aware layers are visible.",timeExtent:"${FROMTIME} to ${ENDTIME}",layers:"Layers: ",speedLabel:"Playback Speed",_localized:{}}});

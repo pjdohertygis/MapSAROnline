@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/TimeSlider/nls/strings":{_widgetLabel:"\uc2dc\uac04 \uc2ac\ub77c\uc774\ub354",enableTips:"\uc2dc\uac04 \uc2ac\ub77c\uc774\ub354\ub97c \ub514\uc2a4\ud50c\ub808\uc774\ud558\ub824\uba74 \ud074\ub9ad\ud569\ub2c8\ub2e4.",disableTips:"\uc2dc\uac04 \uc778\uc2dd \ub808\uc774\uc5b4\ub97c \ubcfc \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.",timeExtent:"${FROMTIME} ~ ${ENDTIME}",layers:"\ub808\uc774\uc5b4: ",speedLabel:"\uc7ac\uc0dd \uc18d\ub3c4",_localized:{}}});

@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Swipe/setting/nls/strings":{styleText:"Escolha um estilo para a ferramenta de swipe",vertical:"Barra vertical",horizontal:"Barra horizontal",scope:"lupa",layerText:"Seleccionar a camada que pretende fazer swipe por omiss\u00e3o",spyglassText:"Selecione a camada que aparece dentro da lupa por defeito.",layerHint:"Nota: Se a camada est\u00e1 escondida em camadas superiores, fazer swipe n\u00e3o ter\u00e1 qualquer efeito.",_localized:{}}});

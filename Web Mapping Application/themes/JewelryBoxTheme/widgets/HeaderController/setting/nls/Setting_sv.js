@@ -1,2 +1,0 @@
-//>>built
-define({"themes/JewelryBoxTheme/widgets/HeaderController/setting/nls/strings":{group:"Namn",openAll:"\u00d6ppna alla i panelen",dropDown:"Visa i listmenyn",noGroup:"Det finns ingen angiven widgetgrupp.",groupSetLabel:"Ange widgetgruppens egenskaper",_localized:{}}});

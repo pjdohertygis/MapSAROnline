@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Swipe/nls/strings":{_widgetLabel:"Vergleichen",swipeText:" W\u00e4hlen Sie den Layer aus, der ausgeblendet werden soll",spyglassText:"W\u00e4hlen Sie den Layer aus, der im Fernglas angezeigt werden soll",disableTips:'Zum Deaktivieren des Werkzeugs "Vergleichen" deaktivieren',enableTips:'Zum Aktivieren des Werkzeugs "Vergleichen" klicken',_localized:{}}});

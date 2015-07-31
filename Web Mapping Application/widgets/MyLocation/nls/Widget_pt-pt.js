@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/MyLocation/nls/strings":{_widgetLabel:"Meu Local",title:"Encontrar meu local",browserError:"A Geolocaliza\u00e7\u00e3o n\u00e3o \u00e9 suportada por este navegador.",failureFinding:"N\u00e3o \u00e9 poss\u00edvel encontrar a sua localiza\u00e7\u00e3o. Por favor confirme no seu browser que a sua localiza\u00e7\u00e3o est\u00e1 a ser partilhada.",_localized:{}}});

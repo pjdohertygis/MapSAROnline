@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Swipe/nls/strings":{_widgetLabel:"P\u0101rvilk\u0161ana",swipeText:" Izv\u0113lieties sl\u0101ni, ko v\u0113laties p\u0101rvilkt.",spyglassText:"Izv\u0113lieties sl\u0101ni, ko par\u0101d\u012bt t\u0101lskat\u012b",disableTips:"Noklik\u0161\u0137iniet, lai deaktiviz\u0113tu p\u0101rvilk\u0161anas r\u012bku",enableTips:"Noklik\u0161\u0137iniet, lai aktiviz\u0113tu p\u0101rvilk\u0161anas r\u012bku",_localized:{}}});

@@ -1,2 +1,0 @@
-//>>built
-define({"themes/JewelryBoxTheme/nls/strings":{_themeLabel:"Papuo\u0161al\u0173 d\u0117\u017eut\u0117s tema",_layout_default:"Numatytasis maketas",_layout_layout1:"1 maketas",_localized:{}}});

@@ -1,3 +1,0 @@
-//>>built
-define({"widgets/Swipe/setting/nls/strings":{styleText:"Ch\u1ecdn m\u1ed9t ki\u1ec3u cho c\u00f4ng c\u1ee5 tr\u01b0\u1ee3t nhanh",vertical:"Thanh d\u1ecdc",horizontal:"Thanh ngang",scope:"K\u00ednh thi\u00ean v\u0103n nh\u1ecf",layerText:"Ch\u1ecdn l\u1edbp b\u1ea1n mu\u1ed1n tr\u01b0\u1ee3t nhanh m\u1eb7c \u0111\u1ecbnh",spyglassText:"Ch\u1ecdn l\u1edbp xu\u1ea5t hi\u1ec7n trong ph\u1ea1m vi k\u00ednh ph\u00f3ng \u0111\u1ea1i m\u1eb7c \u0111\u1ecbnh.",layerHint:"L\u01b0u \u00fd: N\u1ebfu l\u1edbp b\u1ecb \u1ea9n b\u1edfi c\u00e1c l\u1edbp tr\u00ean, tr\u01b0\u1ee3t nhanh s\u1ebd kh\u00f4ng c\u00f3 hi\u1ec7u l\u1ef1c.",
-_localized:{}}});

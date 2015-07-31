@@ -1,3 +1,0 @@
-//>>built
-define({"widgets/Edit/setting/nls/strings":{enableUndoRedo:"W\u0142\u0105cz opcje Cofnij/Pon\u00f3w",toolbarVisible:"Widoczny pasek narz\u0119dziowy",toolbarOptions:"Opcje paska narz\u0119dziowego",mergeVisible:"Po\u0142\u0105cz",cutVisible:"Wytnij",reshapeVisible:"Przekszta\u0142\u0107",back:"Wstecz",label:"Warstwa",edit:"Edytowalne",update:"Wy\u0142\u0105cz aktualizacj\u0119 geometrii",fields:"Pola",actions:"Operacje",editpageName:"Nazwa",editpageAlias:"Alias",editpageVisible:"Widoczne",editpageEditable:"Edytowalne",
-noLayers:"Brak warstw obiektu mo\u017cliwych do edycji",_localized:{}}});

@@ -1,2 +1,0 @@
-//>>built
-define(["dojo/_base/declare","jimu/BaseWidget"],function(b,c){var a=b([c],{templateString:'\x3cdiv\x3eThis is a very simple widget. \x3cinput type\x3d"button" value\x3d"Get Map Id" data-dojo-attach-event\x3d"click:_getMapId"\x3e.\x3c/div\x3e',_getMapId:function(){alert(this.map.id)}});a.hasStyle=!1;a.hasUIFile=!1;a.hasLocale=!1;a.hasConfig=!1;return a});

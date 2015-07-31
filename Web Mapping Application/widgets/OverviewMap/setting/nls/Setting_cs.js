@@ -1,3 +1,0 @@
-//>>built
-define({"widgets/OverviewMap/setting/nls/strings":{visible:"Zobrazovat mapu p\u0159ehledu jako v\u00fdchoz\u00ed",minWidth:"Minim\u00e1ln\u00ed \u0161\u00ed\u0159ka",minHeight:"Minim\u00e1ln\u00ed v\u00fd\u0161ka",maxWidth:"Maxim\u00e1ln\u00ed \u0161\u00ed\u0159ka",maxHeight:"Maxim\u00e1ln\u00ed v\u00fd\u0161ka",minText:"Minimum",maxText:"Maximum",attachText:"Ur\u010dete, do kter\u00e9ho rohu mapy chcete tento widget p\u0159ipojit.",expandText:"Roz\u0161\u00ed\u0159it widget po p\u0159id\u00e1n\u00ed",
-topLeft:"Lev\u00fd horn\u00ed roh",topRight:"Prav\u00fd horn\u00ed roh",bottomLeft:"Lev\u00fd doln\u00ed roh",bottomRight:"Prav\u00fd doln\u00ed roh",_localized:{}}});

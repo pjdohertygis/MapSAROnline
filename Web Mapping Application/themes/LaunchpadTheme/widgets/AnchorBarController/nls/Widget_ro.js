@@ -1,2 +1,0 @@
-//>>built
-define({"themes/LaunchpadTheme/widgets/AnchorBarController/nls/strings":{_themeLabel:"Tem\u0103 platform\u0103 lansare",_layout_default:"Configura\u0163ie implicit\u0103",_layout_layout1:"Aspectul 0",more:"Mai multe widgeturi",_localized:{}}});

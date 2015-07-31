@@ -1,3 +1,0 @@
-//>>built
-define({"widgets/LayerList/nls/strings":{_widgetLabel:"Sl\u0101\u0146u saraksts",titleBasemap:"Pamatkartes",titleLayers:"Operacion\u0101lie sl\u0101\u0146i",labelLayer:"Sl\u0101\u0146a nosaukums",itemZoomTo:"Pietuvin\u0101t",itemTransparency:"Caursp\u012bd\u012bgums",itemTransparent:"Caursp\u012bd\u012bgs",itemOpaque:"Necaurredzams",itemMoveUp:"P\u0101rvietot uz aug\u0161u",itemMoveDown:"P\u0101rvietot uz leju",itemDesc:"Apraksts",itemDownload:"Lejupiel\u0101de",itemToAttributeTable:"Atv\u0113rt atrib\u016btu tabulu",
-itemShowItemDetails:"Par\u0101d\u012bt vien\u012bbu deta\u013cas",empty:"tuk\u0161s",removePopup:"Atsp\u0113jojiet uznirsto\u0161o logu",enablePopup:"Aktiviz\u0113t uznirsto\u0161o logu",_localized:{}}});

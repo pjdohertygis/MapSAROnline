@@ -1,2 +1,0 @@
-//>>built
-define({"themes/LaunchpadTheme/widgets/AnchorBarController/nls/strings":{_themeLabel:"Motiv hlavn\u00edho panelu",_layout_default:"V\u00fdchoz\u00ed rozvr\u017een\u00ed",_layout_layout1:"Rozvr\u017een\u00ed 0",more:"Dal\u0161\u00ed widgety",_localized:{}}});

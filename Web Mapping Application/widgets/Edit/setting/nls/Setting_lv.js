@@ -1,3 +1,0 @@
-//>>built
-define({"widgets/Edit/setting/nls/strings":{enableUndoRedo:"Iesp\u0113jot Atsaukt/Atatsaukt",toolbarVisible:"R\u012bkjosla redzama",toolbarOptions:"R\u012bkjoslas opcijas",mergeVisible:"Apvienot",cutVisible:"Izgriezt",reshapeVisible:"P\u0101rveidot",back:"Atpaka\u013c",label:"Sl\u0101nis",edit:"Redi\u0123\u0113jams",update:"Atsp\u0113jot Atjaunin\u0101t \u0123eometriju",fields:"Lauki",actions:"Darb\u012bbas",editpageName:"Nosaukums",editpageAlias:"Aizst\u0101jv\u0101rds",editpageVisible:"Redzams",
-editpageEditable:"Redi\u0123\u0113jams",noLayers:"Nav pieejams neviens redi\u0123\u0113jams elementu sl\u0101nis",_localized:{}}});

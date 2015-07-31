@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Bookmark/nls/strings":{labelBookmarkName:"Pievienot pa\u0161reiz\u0113jo skatu gr\u0101matz\u012bm\u0113m",labelPlay:"Atska\u0146ot visu",labelStop:"Aptur\u0113t",labelDelete:"Dz\u0113st",placeholderBookmarkName:"Gr\u0101matz\u012bmes nosaukums",errorNameExist:"Gr\u0101matz\u012bme past\u0101v!",errorNameNull:"Neder\u012bgs gr\u0101matz\u012bmes nosaukums.",_widgetLabel:"Gr\u0101matz\u012bme",_localized:{}}});

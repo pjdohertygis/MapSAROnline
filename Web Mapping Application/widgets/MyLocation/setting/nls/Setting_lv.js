@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/MyLocation/setting/nls/strings":{timeout:"Taimauts",highlightLocation:"Izcelt atra\u0161an\u0101s vietu",useTracking:"Skat\u012bties atra\u0161an\u0101s vietas izmai\u0146as",warning:"Nepareiza ievade",_localized:{}}});

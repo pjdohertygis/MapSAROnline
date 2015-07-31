@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/Bookmark/nls/strings":{labelBookmarkName:"Aktuelle Ansicht als Lesezeichen speichern",labelPlay:"Alle wiedergeben",labelStop:"Beenden",labelDelete:"L\u00f6schen",placeholderBookmarkName:"Lesezeichenname",errorNameExist:"Lesezeichen ist vorhanden!",errorNameNull:"Ung\u00fcltiger Lesezeichenname!",_widgetLabel:"Lesezeichen",_localized:{}}});

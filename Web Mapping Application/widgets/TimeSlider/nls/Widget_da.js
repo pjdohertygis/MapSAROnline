@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/TimeSlider/nls/strings":{_widgetLabel:"Tidsskyder",enableTips:"Klik for at vise tidsskyderen.",disableTips:"Ingen tidsafh\u00e6ngige lag er synlige.",timeExtent:"${FROMTIME} til ${ENDTIME}",layers:"Lag: ",speedLabel:"Playbackhastighed",_localized:{}}});

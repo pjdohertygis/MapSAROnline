@@ -1,2 +1,0 @@
-//>>built
-define({"themes/LaunchpadTheme/nls/strings":{_themeLabel:"Motiv hlavn\u00edho panelu",_layout_default:"V\u00fdchoz\u00ed rozvr\u017een\u00ed",_layout_right:"Rozlo\u017een\u00ed vpravo",_localized:{}}});

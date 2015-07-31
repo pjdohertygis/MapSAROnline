@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/LayerList/setting/nls/strings":{showLegend:"Mostra legenda",controlPopupMenuTitle:"Scegliere quali azioni visualizzare nel menu contestuale del layer.",zoomto:"Zoom a",transparency:"Trasparenza",controlPopup:"Abilita/Disabilita popup",moveUpAndDown:"Sposta su/Sposta gi\u00f9",attributeTable:"Apri tabella attributi",url:"Descrizione/Mostra dettagli elemento/Download",_localized:{}}});

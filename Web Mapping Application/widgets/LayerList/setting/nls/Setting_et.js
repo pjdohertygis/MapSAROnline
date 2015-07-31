@@ -1,2 +1,0 @@
-//>>built
-define({"widgets/LayerList/setting/nls/strings":{showLegend:"N\u00e4ita legendi",controlPopupMenuTitle:"Valige, milliseid toiminguid kuvatakse kihi rippmen\u00fc\u00fcs",zoomto:"Suumi",transparency:"L\u00e4bipaistvus",controlPopup:"Luba / Keela h\u00fcpikaknad",moveUpAndDown:"Liigu \u00fcles / Liigu alla",attributeTable:"Ava atribuuditabel",url:"Kirjeldus / Kuva sisu\u00fcksuse detailid / Allalaadimine",_localized:{}}});
