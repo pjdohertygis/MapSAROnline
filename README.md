@@ -4,7 +4,7 @@ MapSAR Online is a research and development project to enable WiSAR teams to eas
 <html>
 <body>
 
-<h2>MapSAR Online</h2>
+<h2>Try Me!</h2>
 <img src="http://napsg.maps.arcgis.com/sharing/rest/content/items/9f1598f3742b4b5b80312255e6e534e6/data" alt="MapSAROnline" style="width:304px;height:228px;">
 
 </body>
