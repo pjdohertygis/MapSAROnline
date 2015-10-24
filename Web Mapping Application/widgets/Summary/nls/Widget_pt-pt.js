@@ -1,2 +1,2 @@
 //>>built
-define({"widgets/Summary/nls/strings":{filter:"Filtro",all:"Todas",missingLayerInWebMap:"Nenhuma Camada Operacional no Mapa Web.",missingSummaryLayerInConfig:"A camada resumo est\u00e1 em falta.",_localized:{}}});
+define({"widgets/Summary/nls/strings":{_widgetLabel:"Resumo",filter:"Filtro",all:"Todas",missingLayerInWebMap:"Nenhuma Camada Operacional no Mapa Web.",missingSummaryLayerInConfig:"A camada resumo est\u00e1 em falta.",_localized:{}}});

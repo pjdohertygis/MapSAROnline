@@ -31,12 +31,14 @@ text-align:center;
 	<ol>
 	  <li>Unzip the downloaded app.</li>
 	  <li>Deploy it on your web server.</li>
-	  <li>Browse to the directory where the app from step 2 is locally hosted and open the app config.json file.</li>
+	  <li>Browse to the directory where the app from step 2 is locally hosted and open the app <strong>config.json</strong> file.</li>
 	  <li>Add a proxy to your app. Refer to <a
 href="http://doc.arcgis.com/en/web-appbuilder/manage-apps/use-proxy.htm">Use proxy</a> for details. <br>
 	  <i>*Important: Make sure that the proxy applied to your app works as expected. The map or widgets might fail if the proxy is set inappropriately.</i></li>
 	  <li>Add and register the app. Refer to <a href="http://doc.arcgis.com/en/arcgis-online/share-maps/add-items.htm"> Add apps </a> and <a href="http://doc.arcgis.com/en/arcgis-online/share-maps/add-items.htm">Register your app </a> for details.</li>
-	  <li>Copy and paste the AppID to the appId property in the <strong>config.json</strong> file. Save the file.</li>
+	  <li>Copy and paste the AppID to the appId property in the <strong>config.json</strong> file. <br>
+	  <i>Note: Skip step 5 and 6 if the app connects to a web-tire authenticated portal.</i></li>
+	  <li>Save the <strong>config.json</strong> file. </li>
 	  <li>View the locally hosted app in your browser.</li>
 	</ol>
 </ul>
@@ -50,11 +52,8 @@ href="http://doc.arcgis.com/en/web-appbuilder/manage-apps/use-proxy.htm">Use pro
       <li>Add widget into the app's <strong>config.json</strong>.<br>
       The example below uses the Demo widget. Add it into the <strong>config.json</strong> file<br>
         <p>{<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;"name": "Demo",<br>
-		&nbsp;&nbsp;&nbsp;&nbsp;"label": "Demo",<br>
-		&nbsp;&nbsp;&nbsp;&nbsp;"uri": "widgets/Demo/Widget",<br>
-		&nbsp;&nbsp;&nbsp;&nbsp;"index": 13,<br>
-		&nbsp;&nbsp;&nbsp;&nbsp;"id": "widgets/Demo/Widget_1"<br>},</p>
+		&nbsp;&nbsp;&nbsp;&nbsp;"uri": "widgets/Demo/Widget"<br>
+		},</p>
       </li>
     </ol>
   </li>

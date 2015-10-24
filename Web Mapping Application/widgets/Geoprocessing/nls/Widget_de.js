@@ -1,3 +1,3 @@
 //>>built
 define({"widgets/Geoprocessing/nls/strings":{_widgetLabel:"Geoverarbeitung",execute:"Ausf\u00fchren",help:"Hilfe",input:"Eingabe",output:"Ausgabe",executing:"Wird ausgef\u00fchrt",requiredInfo:"ist erforderlich.",drawnOnMap:"Das Ergebnis wird auf der Karte dargestellt.",clear:"L\u00f6schen",error:"Fehler",noToolConfig:"Kein Geoverarbeitungs-Task verf\u00fcgbar.",useUrlForGPInput:"URL",useUploadForGPInput:"Datei hochladen",selectFileToUpload:"Datei ausw\u00e4hlen...",upload:"Hochladen",rasterFormat:"Raster-Datenformat",
-noFileSelected:"Keine Datei ausgew\u00e4hlt!",uploadSuccess:"Datei wurde erfolgreich hochgeladen!",url:"URL",_localized:{}}});
+noFileSelected:"Keine Datei ausgew\u00e4hlt!",uploadSuccess:"Datei wurde erfolgreich hochgeladen!",url:"URL",Feet:"Feet",Yards:"Yards",Miles:"Miles",NauticalMiles:"Nautical Miles",Meter:"Meters",Kilometers:"Kilometers",_localized:{}}});

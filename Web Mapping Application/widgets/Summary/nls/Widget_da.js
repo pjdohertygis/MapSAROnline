@@ -1,2 +1,2 @@
 //>>built
-define({"widgets/Summary/nls/strings":{filter:"Filtr\u00e9r",all:"Alle",missingLayerInWebMap:"Ingen operationelle lag i webkort.",missingSummaryLayerInConfig:"Mangler summeringslag",_localized:{}}});
+define({"widgets/Summary/nls/strings":{_widgetLabel:"Summary",filter:"Filtr\u00e9r",all:"Alle",missingLayerInWebMap:"Ingen operationelle lag i webkort.",missingSummaryLayerInConfig:"Mangler summeringslag",_localized:{}}});

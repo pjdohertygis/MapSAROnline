@@ -1,2 +1,2 @@
 //>>built
-define({"widgets/Summary/nls/strings":{filter:"Filter",all:"All",missingLayerInWebMap:"No Operational Layers in Web Map.",missingSummaryLayerInConfig:"Missing summary layer.",_localized:{}}});
+define({"widgets/Summary/nls/strings":{_widgetLabel:"Summary",filter:"Filter",all:"All",missingLayerInWebMap:"No Operational Layers in Web Map.",missingSummaryLayerInConfig:"Missing summary layer.",_localized:{}}});
