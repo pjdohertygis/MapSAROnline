@@ -16,7 +16,7 @@ Web Map: https://napsg.maps.arcgis.com/home/item.html?id=db0ce0c335224b6d8160085
 
 Feature Service: You can use this URL to create a new feature service based on the MapSAR Online data model: http://services.arcgis.com/0ZRg6WRC7mxSLyKX/ArcGIS/rest/services/MapSAROnline_v1/FeatureServer
 
-For more information on how to create feature services from a URL: https://doc.arcgis.com/en/arcgis-online/share-maps/publish-features.htm#ESRI_SECTION1_809F1266856546EF9E6D2CEF3816FD7D
+For more information on how to create feature services from a URL: http://bit.ly/AGOLPublishFeatures
 
 Follow our blog! http://wisarandgis.blogspot.com
 
