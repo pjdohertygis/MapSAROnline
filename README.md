@@ -14,6 +14,7 @@ Try the web mapping application here: http://napsg.maps.arcgis.com/apps/webappvi
 
 Web Map: https://napsg.maps.arcgis.com/home/item.html?id=db0ce0c335224b6d816008544a7a1127
 
+Already have ArcGIS Online? 
 Feature Service: You can use this URL to create a new feature service based on the MapSAR Online data model: http://services.arcgis.com/0ZRg6WRC7mxSLyKX/ArcGIS/rest/services/MapSAROnline_v1/FeatureServer
 
 For more information on how to create feature services from a URL: http://bit.ly/AGOLPublishFeatures
