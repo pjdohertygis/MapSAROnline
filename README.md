@@ -5,7 +5,7 @@ MapSAR Online is a NAPSG SAR Working Group research and development project to e
 <body>
 
 <h2>Try Me!</h2>
-<img src="http://napsg.maps.arcgis.com/sharing/rest/content/items/9f1598f3742b4b5b80312255e6e534e6/data" alt="MapSAROnline" style="width:304px;height:228px;">
+<img src="http://napsg.maps.arcgis.com/sharing/rest/content/items/3a0ace265a1f41fd96cdf092a2f425f1/data" alt="MapSAROnline" style="width:304px;height:228px;">
 
 </body>
 </html>
