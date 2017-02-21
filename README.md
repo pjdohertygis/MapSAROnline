@@ -8,6 +8,11 @@ Web Map: https://napsg.maps.arcgis.com/home/item.html?id=db0ce0c335224b6d8160085
 <h2>Already have ArcGIS Online? </h2>
 You can use this URL to create a new feature service based on the MapSAR Online data model: http://services.arcgis.com/0ZRg6WRC7mxSLyKX/ArcGIS/rest/services/MapSAROnline_v1/FeatureServer
 
+*UPDATE: We are working on revising the MapSAR Online Feature Layer template with the Mountain Rescue Association and NAPSG SAR Working Group
+
+http://msar.maps.arcgis.com/home/item.html?id=65e051d73ae04a618a1caa6d00c4abae
+http://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/MapSAR_Service_Template/FeatureServer
+
 For more information on how to create feature services from a URL: http://bit.ly/AGOLPublishFeatures
 
 Fore more information on how this app was created see Web AppBuilder for ArcGIS: http://doc.arcgis.com/en/web-appbuilder/
