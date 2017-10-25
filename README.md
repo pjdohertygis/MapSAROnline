@@ -5,6 +5,10 @@ Try the web mapping application here: http://napsg.maps.arcgis.com/apps/webappvi
 
 Web Map: http://napsg.maps.arcgis.com/home/item.html?id=11634c7345cb43ccbc04f6027986dd51
 
+Training Website: http://arcg.is/1PyyGX
+
+Videos: https://www.youtube.com/watch?v=qPPg-PNHpc8&list=PL4i5q8WwCMGfOCtSPTf_i1F5RCJTGOoir
+
 <h2>Already have ArcGIS Online? </h2>
 You can use this URL to create a new feature service based on the MapSAR Online data model: https://services.arcgis.com/0ZRg6WRC7mxSLyKX/arcgis/rest/services/MapSAR/FeatureServer
 
