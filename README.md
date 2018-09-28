@@ -7,6 +7,8 @@ Web Map: http://napsg.maps.arcgis.com/home/item.html?id=11634c7345cb43ccbc04f602
 
 Training Website: http://arcg.is/1PyyGX
 
+<iframe width="100%" height="800px" src="https://www.arcgis.com/apps/MapSeries/index.html?appid=4914d6e6e47041e098c093701ff2e50e" frameborder="0" scrolling="no"></iframe>
+
 Videos: https://www.youtube.com/watch?v=qPPg-PNHpc8&list=PL4i5q8WwCMGfOCtSPTf_i1F5RCJTGOoir
 
 <h2>Already have ArcGIS Online? </h2>
