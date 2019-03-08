@@ -1,7 +1,7 @@
 # New Tutorial
 You can now access a no-cost training resource that walks you through the basic setup and use of MapSAR Online https://learn.arcgis.com/en/projects/prepare-for-search-and-rescue-incidents/
 
-# MapSAROnline
+# MapSAR Online
 MapSAR Online is a NAPSG Foundation SAR Working Group research and development project to enable WiSAR teams to easily use web mapping for SAR operations. Please feel free to experiment with this map and use the tools. We will use this app to experiment with user interface, implementation, deployment, symbology, etc. For ArcGIS Desktop versions, see sister projects https://github.com/dferguso/MapSAR_Ex and www.mapsar.net.
 
 Try the web mapping application here: http://napsg.maps.arcgis.com/apps/webappviewer/index.html?id=62cd27edda85494e903c283f08f4ad0e
@@ -12,7 +12,7 @@ Training Website: http://arcg.is/1PyyGX
 
 Videos: https://www.youtube.com/watch?v=qPPg-PNHpc8&list=PL4i5q8WwCMGfOCtSPTf_i1F5RCJTGOoir
 
-<h2>Already have ArcGIS Online? </h2>
+# Already have ArcGIS Online?
 You can use this URL to create a new feature service based on the MapSAR Online data model: https://services.arcgis.com/0ZRg6WRC7mxSLyKX/arcgis/rest/services/MapSAR/FeatureServer
 
 Feature Layer Item Property Page
@@ -36,10 +36,3 @@ Application - The actual web mapping application configured for situational awar
 https://community.esri.com/groups/sargis
 https://wisarandgis.blogspot.com
 https://twitter.com/search?q=%23mapsar&src=typd
-
-
-# Training
-For a free training resource, see the SARGIS Basic Training Story Map
-http://bit.ly/BasicSARGIS 
-
-
