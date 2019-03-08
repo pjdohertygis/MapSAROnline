@@ -1,4 +1,4 @@
-# New Tutorial
+# Free Tutorial
 You can now access a no-cost training resource that walks you through the basic setup and use of MapSAR Online https://learn.arcgis.com/en/projects/prepare-for-search-and-rescue-incidents/
 
 # MapSAR Online
@@ -30,9 +30,9 @@ ArcGIS Pro template for Search and Rescue with advanced spatial analysis https:/
 # Developers 
 Data Model - If you go the item property website (this is "metadata" page for the editable layers in the map) you can export the data model (and sample data) in a variety of formats (shp, csv, kml, fgdb, geojson) by clicking on Export Data. https://www.arcgis.com/home/item.html?id=f412081560ec4074ac16e2161f7d5def 
 
-Application - The actual web mapping application configured for situational awareness is out-of-the-box Web AppBuilder for ArcGIS (I am not a developer!). You can learn more about this framework here https://developers.arcgis.com/web-appbuilder/
+Application - The actual web mapping application configured for situational awareness is out-of-the-box Web AppBuilder for ArcGIS (I am not a developer). You can learn more about this framework here https://developers.arcgis.com/web-appbuilder/
 
-<h2>Follow our work! </h2>
+# Follow our work! 
 https://community.esri.com/groups/sargis
 https://wisarandgis.blogspot.com
 https://twitter.com/search?q=%23mapsar&src=typd
