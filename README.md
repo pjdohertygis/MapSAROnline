@@ -33,6 +33,6 @@ Data Model - If you go the item property website (this is "metadata" page for th
 Application - The actual web mapping application configured for situational awareness is out-of-the-box Web AppBuilder for ArcGIS (I am not a developer). You can learn more about this framework here https://developers.arcgis.com/web-appbuilder/
 
 # Follow our work! 
-https://community.esri.com/groups/sargis
-https://wisarandgis.blogspot.com
-https://twitter.com/search?q=%23mapsar&src=typd
+Esri Community https://community.esri.com/groups/sargis
+Blog https://wisarandgis.blogspot.com
+Twitter https://twitter.com/search?q=%23mapsar&src=typd
