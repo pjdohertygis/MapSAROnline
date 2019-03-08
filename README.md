@@ -1,3 +1,6 @@
+# New Tutorial
+You can now access a no-cost training resource that walks you through the basic setup and use of MapSAR Online https://learn.arcgis.com/en/projects/prepare-for-search-and-rescue-incidents/
+
 # MapSAROnline
 MapSAR Online is a NAPSG Foundation SAR Working Group research and development project to enable WiSAR teams to easily use web mapping for SAR operations. Please feel free to experiment with this map and use the tools. We will use this app to experiment with user interface, implementation, deployment, symbology, etc. For ArcGIS Desktop versions, see sister projects https://github.com/dferguso/MapSAR_Ex and www.mapsar.net.
 
